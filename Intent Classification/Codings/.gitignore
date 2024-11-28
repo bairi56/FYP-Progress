@@ -1,3 +1,0 @@
-*.log        # Ignores all `.log` files
-node_modules # Ignores the `node_modules` folder
-/temp        # Ignores the `temp` folder
