@@ -1,0 +1,414 @@
+Sample,Intent
+I live in Lahore,inform_address
+My city is Islamabad,inform_address
+I come from Karachi,inform_address
+I reside in Faisalabad,inform_address
+I'm from Rawalpindi,inform_address
+I am currently in Multan,inform_address
+My home city is Peshawar,inform_address
+I live in Quetta,inform_address
+I stay in Sialkot,inform_address
+I reside in Gujranwala,inform_address
+My current city is Bahawalpur,inform_address
+I am based in Sukkur,inform_address
+My location is Sargodha,inform_address
+I am from Abbottabad,inform_address
+I live in Hyderabad,inform_address
+My address is in Mardan,inform_address
+I am staying in Rahim Yar Khan,inform_address
+I come from Kasur,inform_address
+I live in Okara,inform_address
+I am currently based in Jhelum,inform_address
+My city is Gujrat,inform_address
+I stay in Dera Ghazi Khan,inform_address
+I reside in Sahiwal,inform_address
+My address is in Chakwal,inform_address
+I live in Mianwali,inform_address
+I am from Mirpur,inform_address
+I reside in Chitral,inform_address
+My current location is Sheikhupura,inform_address
+I come from Toba Tek Singh,inform_address
+I am staying in Swat,inform_address
+I live in Dera Ismail Khan,inform_address
+I reside in Khushab,inform_address
+My home is in Muzaffargarh,inform_address
+I come from Narowal,inform_address
+I live in Kohat,inform_address
+I am based in Wah Cantt,inform_address
+I reside in Attock,inform_address
+I live in Nowshera,inform_address
+My home is in Bahawalnagar,inform_address
+I come from Swabi,inform_address
+I am staying in Mansehra,inform_address
+I live in Jhang,inform_address
+I reside in Khuzdar,inform_address
+I am currently based in Chiniot,inform_address
+My city is Larkana,inform_address
+I stay in Kharian,inform_address
+I am from Skardu,inform_address
+I live in Dubai,inform_address
+My city is London,inform_address
+I reside in New York,inform_address
+I am currently living in Islamabad,inform_address
+I belong to Karachi,inform_address
+I am based out of Lahore,inform_address
+My home is in Rawalpindi,inform_address
+My city is Multan,inform_address
+I come from Faisalabad,inform_address
+I am settled in Quetta,inform_address
+I am staying in Peshawar,inform_address
+I reside in Sialkot at the moment,inform_address
+My address is Gujranwala,inform_address
+I live in Bahawalpur,inform_address
+I hail from Sukkur,inform_address
+I currently reside in Sargodha,inform_address
+I am located in Abbottabad,inform_address
+"I am from Hyderabad, Pakistan",inform_address
+My hometown is Mardan,inform_address
+I am originally from Rahim Yar Khan,inform_address
+I reside in Kasur,inform_address
+I am living in Okara,inform_address
+My city of residence is Jhelum,inform_address
+I call Gujrat my home,inform_address
+I am from Dera Ghazi Khan,inform_address
+I currently live in Sahiwal,inform_address
+My address is Chakwal,inform_address
+I come from Mianwali,inform_address
+"I live in Mirpur, AJK",inform_address
+I am residing in Chitral,inform_address
+I belong to Sheikhupura,inform_address
+My current city of residence is Toba Tek Singh,inform_address
+I hail from Swat,inform_address
+I am located in Dera Ismail Khan,inform_address
+I reside in Khushab,inform_address
+I come from Muzaffargarh,inform_address
+I belong to Narowal,inform_address
+I am currently in Kohat,inform_address
+I stay in Wah Cantt,inform_address
+I am a resident of Attock,inform_address
+I live in Nowshera,inform_address
+My current residence is Bahawalnagar,inform_address
+I come from Swabi,inform_address
+I am presently living in Mansehra,inform_address
+My city is Jhang,inform_address
+I am based in Khuzdar,inform_address
+I am currently residing in Chiniot,inform_address
+I come from Larkana,inform_address
+I live in Kharian,inform_address
+I hail from Skardu,inform_address
+I currently live in Riyadh,inform_address
+I am settled in Toronto,inform_address
+I am living in Paris,inform_address
+I belong to Berlin,inform_address
+I am currently staying in Lahore,inform_address
+I am from Karachi,inform_address
+My city is Islamabad,inform_address
+I live in Rawalpindi these days,inform_address
+I am from Multan city,inform_address
+I reside in Faisalabad,inform_address
+I am settled in Peshawar,inform_address
+I am living in Quetta,inform_address
+I currently stay in Sialkot,inform_address
+I am based in Gujranwala,inform_address
+My address is Bahawalpur,inform_address
+I reside in Sukkur,inform_address
+I am a resident of Sargodha,inform_address
+I currently live in Abbottabad,inform_address
+I am from Hyderabad,inform_address
+I belong to Mardan,inform_address
+I am living in Rahim Yar Khan,inform_address
+I come from Kasur,inform_address
+My residence is Okara,inform_address
+I reside in Jhelum,inform_address
+I am based in Gujrat,inform_address
+I am currently living in Dera Ghazi Khan,inform_address
+I stay in Sahiwal,inform_address
+I am from Chakwal,inform_address
+I reside in Mianwali,inform_address
+I hail from Mirpur,inform_address
+I live in Chitral,inform_address
+I currently reside in Sheikhupura,inform_address
+I belong to Toba Tek Singh,inform_address
+I am from Swat valley,inform_address
+I live in Dera Ismail Khan,inform_address
+I am staying in Khushab,inform_address
+I am from Muzaffargarh,inform_address
+I currently live in Narowal,inform_address
+I come from Kohat,inform_address
+I reside in Wah Cantt,inform_address
+I am living in Attock,inform_address
+I am from Nowshera,inform_address
+I belong to Bahawalnagar,inform_address
+I reside in Swabi,inform_address
+I am currently in Mansehra,inform_address
+I am from Jhang city,inform_address
+I live in Khuzdar,inform_address
+I stay in Chiniot,inform_address
+I reside in Larkana,inform_address
+I am from Kharian,inform_address
+I come from Skardu,inform_address
+I live in Melbourne,inform_address
+I reside in Sydney,inform_address
+I currently live in Beijing,inform_address
+I am from Tokyo,inform_address
+I am residing in San Francisco,inform_address
+I am currently residing in Lahore,inform_address
+Karachi is where I live,inform_address
+I call Islamabad home,inform_address
+I am originally from Rawalpindi,inform_address
+I am based in Multan city,inform_address
+I belong to Faisalabad,inform_address
+I stay in Peshawar,inform_address
+Quetta is my city,inform_address
+Sialkot is where I currently live,inform_address
+Gujranwala is my place of residence,inform_address
+I am a resident of Bahawalpur,inform_address
+Sukkur is my hometown,inform_address
+I currently reside in Sargodha,inform_address
+Abbottabad is where I live,inform_address
+Hyderabad is my home city,inform_address
+I stay in Mardan,inform_address
+Rahim Yar Khan is my location,inform_address
+Kasur is where I live,inform_address
+I reside in Okara,inform_address
+I live in Jhelum,inform_address
+I am based in Gujrat,inform_address
+Dera Ghazi Khan is my home,inform_address
+Sahiwal is my residence,inform_address
+Chakwal is my city,inform_address
+Mianwali is where I am from,inform_address
+Mirpur is my home,inform_address
+I live in Chitral,inform_address
+Sheikhupura is my current residence,inform_address
+Toba Tek Singh is where I am from,inform_address
+I live in Swat,inform_address
+I am based in Dera Ismail Khan,inform_address
+Khushab is where I stay,inform_address
+I am from Muzaffargarh,inform_address
+Narowal is my place of residence,inform_address
+I reside in Kohat,inform_address
+I live in Wah Cantt,inform_address
+I am originally from Attock,inform_address
+Nowshera is where I stay,inform_address
+Bahawalnagar is my home,inform_address
+Swabi is my city,inform_address
+Mansehra is where I live,inform_address
+Jhang is my hometown,inform_address
+I currently stay in Khuzdar,inform_address
+I live in Chiniot,inform_address
+Larkana is my home,inform_address
+I belong to Kharian,inform_address
+I come from Skardu,inform_address
+I live in Dubai,inform_address
+I currently reside in Sydney,inform_address
+I stay in Toronto,inform_address
+I live in Kuala Lumpur,inform_address
+I am currently residing in London,inform_address
+I live in Lahore right now,inform_address
+I am located in Karachi,inform_address
+My current residence is Islamabad,inform_address
+I am from Rawalpindi city,inform_address
+I am staying in Multan,inform_address
+Faisalabad is where I reside,inform_address
+I belong to Peshawar,inform_address
+I live in Quetta currently,inform_address
+Sialkot is my city of residence,inform_address
+I live in Gujranwala,inform_address
+I am based in Bahawalpur,inform_address
+My address is in Sukkur,inform_address
+I am located in Sargodha,inform_address
+I reside in Abbottabad,inform_address
+Hyderabad is where I live,inform_address
+I stay in Mardan city,inform_address
+I live in Rahim Yar Khan,inform_address
+I reside in Kasur,inform_address
+My current location is Okara,inform_address
+I am from Jhelum,inform_address
+Gujrat is where I am based,inform_address
+I reside in Dera Ghazi Khan,inform_address
+Sahiwal is where I stay,inform_address
+My residence is Chakwal,inform_address
+Mianwali is where I am living,inform_address
+Mirpur is my place of residence,inform_address
+I stay in Chitral,inform_address
+I am currently living in Sheikhupura,inform_address
+I belong to Toba Tek Singh,inform_address
+Swat is where I live,inform_address
+I live in Dera Ismail Khan,inform_address
+Khushab is my home,inform_address
+I reside in Muzaffargarh,inform_address
+I am based in Narowal,inform_address
+I live in Kohat,inform_address
+My current home is Wah Cantt,inform_address
+I am residing in Attock,inform_address
+I stay in Nowshera,inform_address
+Bahawalnagar is my current address,inform_address
+I live in Swabi,inform_address
+Mansehra is my home city,inform_address
+I am based in Jhang,inform_address
+I live in Khuzdar,inform_address
+I currently reside in Chiniot,inform_address
+Larkana is my residence,inform_address
+I reside in Kharian,inform_address
+Skardu is where I am living,inform_address
+I currently live in Abu Dhabi,inform_address
+I am living in New York,inform_address
+I stay in Los Angeles,inform_address
+I reside in Tokyo,inform_address
+I am from Singapore,inform_address
+I currently live in Lahore,inform_address
+Karachi is where I am from,inform_address
+I reside in Islamabad at the moment,inform_address
+Rawalpindi is my home city,inform_address
+I am from Multan city,inform_address
+Faisalabad is where I stay,inform_address
+I am based in Peshawar,inform_address
+Quetta is my current city,inform_address
+Sialkot is my place of residence,inform_address
+Gujranwala is where I live now,inform_address
+Bahawalpur is my hometown,inform_address
+I live in Sukkur currently,inform_address
+Sargodha is where I reside,inform_address
+I am living in Abbottabad,inform_address
+Hyderabad is my city of residence,inform_address
+I hail from Mardan,inform_address
+Rahim Yar Khan is where I am from,inform_address
+I stay in Kasur,inform_address
+Okara is my current address,inform_address
+I am from Jhelum,inform_address
+Gujrat is where I am located,inform_address
+Dera Ghazi Khan is my city,inform_address
+Sahiwal is my home,inform_address
+I live in Chakwal,inform_address
+Mianwali is my residence,inform_address
+I am originally from Mirpur,inform_address
+I currently reside in Chitral,inform_address
+Sheikhupura is where I stay,inform_address
+Toba Tek Singh is my hometown,inform_address
+I am from Swat valley,inform_address
+Dera Ismail Khan is where I live,inform_address
+I am living in Khushab,inform_address
+I currently reside in Muzaffargarh,inform_address
+I am based in Narowal,inform_address
+I live in Kohat now,inform_address
+Wah Cantt is my current location,inform_address
+I am from Attock,inform_address
+Nowshera is my hometown,inform_address
+Bahawalnagar is where I stay,inform_address
+I reside in Swabi,inform_address
+I live in Mansehra city,inform_address
+Jhang is my current residence,inform_address
+Khuzdar is my place of origin,inform_address
+Chiniot is where I am from,inform_address
+I am from Larkana,inform_address
+Kharian is where I live,inform_address
+I am currently in Skardu,inform_address
+I reside in Dubai,inform_address
+I am living in San Francisco,inform_address
+I stay in London,inform_address
+I am from Sydney,inform_address
+My current home is in Tokyo,inform_address
+I am currently residing in Lahore,inform_address
+My hometown is Karachi,inform_address
+I live in Islamabad right now,inform_address
+I hail from Rawalpindi,inform_address
+Multan is where I am based,inform_address
+Faisalabad is my place of residence,inform_address
+I currently stay in Peshawar,inform_address
+I am from Quetta,inform_address
+Sialkot is where I live at the moment,inform_address
+Gujranwala is my city,inform_address
+I am a resident of Bahawalpur,inform_address
+Sukkur is where I currently reside,inform_address
+I am located in Sargodha,inform_address
+Abbottabad is where I live,inform_address
+Hyderabad is my hometown,inform_address
+I am from Mardan city,inform_address
+I stay in Rahim Yar Khan,inform_address
+Kasur is my residence,inform_address
+My address is in Okara,inform_address
+I am from Jhelum,inform_address
+Gujrat is where I am currently living,inform_address
+I reside in Dera Ghazi Khan,inform_address
+I live in Sahiwal,inform_address
+Chakwal is where I am from,inform_address
+I am from Mianwali,inform_address
+I currently live in Mirpur,inform_address
+I am staying in Chitral,inform_address
+Sheikhupura is my current location,inform_address
+I belong to Toba Tek Singh,inform_address
+Swat valley is where I am based,inform_address
+I live in Dera Ismail Khan,inform_address
+Khushab is my city of residence,inform_address
+I am originally from Muzaffargarh,inform_address
+Narowal is where I reside,inform_address
+I am currently in Kohat,inform_address
+Wah Cantt is my home,inform_address
+Attock is where I stay,inform_address
+I am from Nowshera,inform_address
+Bahawalnagar is my hometown,inform_address
+I live in Swabi,inform_address
+I currently reside in Mansehra,inform_address
+Jhang is my current address,inform_address
+Khuzdar is where I am from,inform_address
+Chiniot is my city,inform_address
+I am living in Larkana,inform_address
+Kharian is my place of origin,inform_address
+I am in Skardu at the moment,inform_address
+I stay in Abu Dhabi,inform_address
+I reside in New York,inform_address
+I am currently in Los Angeles,inform_address
+I live in Paris,inform_address
+I am from Toronto,inform_address
+I currently reside in Lahore city,inform_address
+Karachi is where I come from,inform_address
+I live in Islamabad at this time,inform_address
+My home is in Rawalpindi,inform_address
+I am based in Multan city,inform_address
+Faisalabad is where I currently live,inform_address
+I stay in Peshawar these days,inform_address
+Quetta is my hometown,inform_address
+Sialkot is where I live right now,inform_address
+I am located in Gujranwala,inform_address
+Bahawalpur is where I call home,inform_address
+I live in Sukkur at the moment,inform_address
+Sargodha is where I am currently residing,inform_address
+I am in Abbottabad,inform_address
+Hyderabad is my current residence,inform_address
+Mardan is where I am from,inform_address
+I live in Rahim Yar Khan currently,inform_address
+My city of residence is Kasur,inform_address
+My address is in Okara,inform_address
+I am from Jhelum city,inform_address
+I reside in Gujrat these days,inform_address
+Dera Ghazi Khan is my city,inform_address
+Sahiwal is where I currently stay,inform_address
+I am originally from Chakwal,inform_address
+I am living in Mianwali right now,inform_address
+I currently stay in Mirpur,inform_address
+Chitral is where I am based now,inform_address
+Sheikhupura is my hometown,inform_address
+I belong to Toba Tek Singh district,inform_address
+Swat is where I currently live,inform_address
+Dera Ismail Khan is my residence,inform_address
+I live in Khushab now,inform_address
+Muzaffargarh is where I am located,inform_address
+Narowal is my current city,inform_address
+I am in Kohat at this moment,inform_address
+Wah Cantt is where I reside,inform_address
+I stay in Attock these days,inform_address
+Nowshera is my hometown,inform_address
+Bahawalnagar is my city of residence,inform_address
+I live in Swabi currently,inform_address
+I am currently in Mansehra,inform_address
+Jhang is where I call home,inform_address
+I am from Khuzdar district,inform_address
+Chiniot is where I live,inform_address
+Larkana is my current address,inform_address
+I stay in Kharian,inform_address
+I am living in Skardu right now,inform_address
+"I reside in Islamabad, Pakistan",inform_address
+I currently live in Sydney,inform_address
+I am from Toronto,inform_address
+I stay in Melbourne,inform_address
+My current home is in Dubai,inform_address

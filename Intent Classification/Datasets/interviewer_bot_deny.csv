@@ -1,0 +1,421 @@
+Sample,Intent
+No,Deny
+Never,Deny
+Nope,Deny
+Nah,Deny
+Incorrect,Deny
+Disagree,Deny
+It is not so,Deny
+"I do not think soNo, I do not think that is correct.",Deny
+I disagree with that statement.,Deny
+"No, I do not have that experience.",Deny
+That is not something I agree with.,Deny
+"No, I cannot do that.",Deny
+I do not think that is the right approach.,Deny
+"No, I do not have those skills.",Deny
+That is not how I would do it.,Deny
+I do not think that will work.,Deny
+"No, I do not agree with you.",Deny
+I do not believe that is correct.,Deny
+"No, I cannot accept that.",Deny
+That is not my understanding.,Deny
+"No, I do not think that is feasible.",Deny
+I am not sure I agree with that.,Deny
+"No, I do not think that is necessary.",Deny
+I do not believe that is the right solution.,Deny
+"No, I do not think that is the best option.",Deny
+I am not comfortable with that.,Deny
+"No, I do not support that idea.",Deny
+That is not something I can do.,Deny
+"No, I do not have that qualification.",Deny
+I do not think that is a good idea.,Deny
+"No, I cannot agree with that.",Deny
+I do not think that is possible.,Deny
+"No, I do not think that is the answer.",Deny
+I do not see it that way.,Deny
+"No, that is not my opinion.",Deny
+I do not think that will be effective.,Deny
+"No, I do not think that is relevant.",Deny
+I do not think that is the right fit.,Deny
+"No, that is not something I can commit to.",Deny
+I do not think that is the right direction.,Deny
+"No, I do not think that is necessary.",Deny
+I do not believe that is the correct path.,Deny
+"No, that is not what I would choose.",Deny
+I do not think that is appropriate.,Deny
+"No, I cannot agree with that decision.",Deny
+I do not think that is the right choice.,Deny
+"No, I do not think that will work out.",Deny
+I do not see how that will be effective.,Deny
+"No, I cannot support that.",Deny
+I do not think that is a good solution.,Deny
+"No, I do not believe that is the best approach.",Deny
+I do not think that will be successful.,Deny
+"No, I cannot go along with that.",Deny
+I do not think that is worth pursuing.,Deny
+"No, that is not something I can agree with.",Deny
+I do not think that will achieve the goal.,Deny
+"No, I do not believe that is the best option.",Deny
+I do not think that is the right move.,Deny
+"No, I do not think that is achievable.",Deny
+I do not think that is a good plan.,Deny
+"No, I do not see the value in that.",Deny
+I do not believe that will work.,Deny
+"No, that is not something I can do.",Deny
+I do not think that is the right approach.,Deny
+"No, I do not think that will be effective.",Deny
+I do not think that is the best way forward.,Deny
+"No, that is not the right path for me.",Deny
+I do not believe that is the right choice.,Deny
+"No, I do not think that will solve the problem.",Deny
+I do not think that is the correct decision.,Deny
+"No, that is not the way I would go.",Deny
+I do not believe that is the right answer.,Deny
+"No, I do not think that is the right solution.",Deny
+I do not think that will work out.,Deny
+"No, I do not agree with that.",Deny
+I do not believe that is the correct approach.,Deny
+"No, that is not something I would do.",Deny
+I do not think that is necessary.,Deny
+"No, I do not see that working.",Deny
+I do not think that is the right fit.,Deny
+"No, I do not think that is realistic.",Deny
+I do not believe that is the right plan.,Deny
+"No, I do not think that will be successful.",Deny
+I do not think that is the right course of action.,Deny
+"No, I cannot agree with that plan.",Deny
+I do not think that is the right way to go.,Deny
+"No, I do not believe that is a good idea.",Deny
+I do not think that will work out well.,Deny
+"No, I do not think that is the right choice.",Deny
+I do not think that is feasible.,Deny
+"No, I do not think that is the right option.",Deny
+I do not believe that is the best approach.,Deny
+"No, I do not see that as a viable solution.",Deny
+I do not think that is the best way to proceed.,Deny
+"No, I cannot go with that.",Deny
+I do not think that is the right call.,Deny
+"No, I do not think that is necessary.",Deny
+I do not believe that is the right path.,Deny
+"No, that is not something I would recommend.",Deny
+I do not think that is the right strategy.,Deny
+"No, I do not think that is going to work.",Deny
+I do not think that is the right solution.,Deny
+"No, I do not see that as effective.",Deny
+I do not think that is the best plan.,Deny
+"No, I do not believe that is the correct choice.",Deny
+I do not think that will achieve the desired result.,Deny
+"No, I do not think that is the right action.",Deny
+I do not think that is the best course of action.,Deny
+"No, I do not think that is realistic.",Deny
+I do not believe that is the right decision.,Deny
+"No, I do not think that will work.",Deny
+I do not think that is the best option.,Deny
+"No, I do not think that is a good solution.",Deny
+I do not think that is necessary.,Deny
+"No, I do not think that will work out.",Deny
+I do not think that is a good plan.,Deny
+"No, I do not believe that is the right approach.",Deny
+I do not think that is the best move.,Deny
+"No, I do not think that will be effective.",Deny
+I do not think that is the right direction.,Deny
+"No, I do not think that is the right choice.",Deny
+I do not think that will solve the problem.,Deny
+"No, I do not see that as a viable option.",Deny
+I do not think that is the best course of action.,Deny
+"No, I do not believe that is the correct decision.",Deny
+I do not think that is going to work out.,Deny
+"No, I do not think that is necessary.",Deny
+I do not think that is the best solution.,Deny
+"No, I do not think that is the right path.",Deny
+I do not think that is the best option.,Deny
+"No, I do not think that is achievable.",Deny
+I do not think that is the right fit.,Deny
+"No, I do not believe that is a good idea.",Deny
+I do not think that is the correct approach.,Deny
+"No, I do not think that is realistic.",Deny
+I do not think that is the right way to go.,Deny
+"No, I do not think that is a good solution.",Deny
+I do not think that is the right approach.,Deny
+"No, I do not think that will work.",Deny
+I do not think that is necessary.,Deny
+"No, I do not think that is the right move.",Deny
+I do not think that is feasible.,Deny
+"No, I do not think that will work out.",Deny
+I do not think that is the best option.,Deny
+"No, I do not think that is the right decision.",Deny
+I do not think that is the best course.,Deny
+"No, I do not think that is a good plan.",Deny
+I do not think that is the right solution.,Deny
+"No, I do not think that is realistic.",Deny
+I do not think that is the correct approach.,Deny
+"No, I do not think that is achievable.",Deny
+I do not think that is the right choice.,Deny
+"No, I do not think that is a good strategy.",Deny
+I do not think that is the right direction.,Deny
+"No, I do not believe that is correct.",Deny
+I do not think that will be effective.,Deny
+"No, I do not think that is the right move.",Deny
+I do not think that is the best approach.,Deny
+"No, I do not think that is going to work.",Deny
+I do not think that is the best way forward.,Deny
+"No, I do not think that is the right path.",Deny
+I do not think that is a good idea.,Deny
+"No, I do not think that will be successful.",Deny
+I do not think that is the right solution.,Deny
+"No, I do not think that is feasible.",Deny
+I do not think that is the best course of action.,Deny
+"No, I do not think that is the right call.",Deny
+I do not think that is the right strategy.,Deny
+"No, I do not think that will work out.",Deny
+I do not think that is the best option.,Deny
+"No, I do not think that is the right direction.",Deny
+I do not think that is the right move.,Deny
+"No, I do not think that is going to be effective.",Deny
+I do not think that is the best approach.,Deny
+"No, I do not think that is the right fit.",Deny
+I do not think that is going to work out.,Deny
+"No, I do not believe that is a good idea.",Deny
+I do not think that is the right choice.,Deny
+"No, I do not think that is the correct path.",Deny
+I do not think that is the best strategy.,Deny
+"No, I do not think that is the right solution.",Deny
+I do not think that is going to be successful.,Deny
+"No, I do not think that is necessary.",Deny
+I do not think that is the right move.,Deny
+"No, I do not think that is the best course of action.",Deny
+I do not think that is the right approach.,Deny
+"No, I do not think that is feasible.",Deny
+I do not think that is the best choice.,Deny
+"No, I do not think that is the right direction.",Deny
+I do not think that is a good idea.,Deny
+"No, I do not think that is going to work out.",Deny
+I do not think that is the best option.,Deny
+"No, I do not think that is the right solution.",Deny
+I do not think that is necessary.,Deny
+"No, I do not think that is the correct decision.",Deny
+I do not think that is the right call.,Deny
+"No, I do not think that is the right fit.",Deny
+I do not think that is going to be successful.,Deny
+"No, I do not think that is the right move.",Deny
+I do not think that is the best approach.,Deny
+"No, I do not think that is the right strategy.",Deny
+I do not think that is going to work out.,Deny
+"No, I do not think that is the right direction.",Deny
+I do not think that is a good plan.,Deny
+"No, I do not think that is going to be effective.",Deny
+I do not think that is the best solution.,Deny
+"No, I do not think that is going to be successful.",Deny
+I do not think that is the right move.,Deny
+"No, I do not think that is necessary.",Deny
+I do not think that is the right decision.,Deny
+"No, I do not think that is the best approach.",Deny
+I do not think that is going to work.,Deny
+"No, I do not think that is the right strategy.",Deny
+I do not think that is the right solution.,Deny
+"No, I do not think that is going to work out.",Deny
+I do not think that is the right choice.,Deny
+"No, I do not think that is going to be effective.",Deny
+I do not think that is necessary.,Deny
+"No, I do not think that is the right direction.",Deny
+I do not think that is the best course of action.,Deny
+"No, I do not think that is the right move.",Deny
+I do not think that is going to work out.,Deny
+"No, I do not think that is necessary.",Deny
+"Nope, I don't think so.",Deny
+"Nah, that's not right.",Deny
+Not really feeling that idea.,Deny
+"No, I don't agree with that.",Deny
+"Nah, that's not gonna work.",Deny
+"Nope, I don't think that's the way to go.",Deny
+Not a fan of that plan.,Deny
+"No, that's not it.",Deny
+"Nah, not the best choice.",Deny
+"Nope, I don't believe that's right.",Deny
+"Nah, that's not what I want.",Deny
+"No, I'm not convinced.",Deny
+"Not at all, that's not good.",Deny
+"Nope, that's not the answer.",Deny
+"Nah, I'm not into that.",Deny
+"No way, that's not happening.",Deny
+"Nope, I don't think that's a good idea.",Deny
+"Nah, I don't agree.",Deny
+"Not really, that's not the solution.",Deny
+"Nope, that's not what I'm looking for.",Deny
+"Nah, that's not my style.",Deny
+"Nope, that's not the best approach.",Deny
+"No way, that's not gonna happen.",Deny
+"No, I'm not sure about that.",Deny
+"Nah, I'm not feeling it.",Deny
+"Not quite, that's not right.",Deny
+"Nope, that doesn't seem right.",Deny
+"Nah, that's not for me.",Deny
+"Nope, not the right fit.",Deny
+"No, that's not the best move.",Deny
+"Nah, I don't think that's the answer.",Deny
+"Nope, that's not it for me.",Deny
+"Not at all, that's not gonna work.",Deny
+"Nah, that's not the best approach.",Deny
+"No, that's not what I had in mind.",Deny
+"Nope, not interested in that.",Deny
+"Nah, that's not happening.",Deny
+"No way, I'm not doing that.",Deny
+"No, that's not the right call.",Deny
+"Nah, I don't believe that's right.",Deny
+"Nope, that's not what I want to do.",Deny
+"No, that's not working for me.",Deny
+"Nah, I'm not down for that.",Deny
+"Nope, not going to happen.",Deny
+"No way, that's not the right way.",Deny
+"No, that's not gonna cut it.",Deny
+"Nah, I don't think that's a good fit.",Deny
+"Nope, I don't think that's a good plan.",Deny
+"Nah, I don't like that idea.",Deny
+"No, that's not what I'm after.",Deny
+"Nah, that's not gonna fly.",Deny
+"Nope, that's not what I was thinking.",Deny
+"No, that's not what I need.",Deny
+"Nah, that's not gonna do it.",Deny
+"Nope, that's not the best option.",Deny
+"Nah, I'm not into that plan.",Deny
+"No, I don't think that's the right approach.",Deny
+"Nope, that's not gonna work for me.",Deny
+"Nah, not interested.",Deny
+"No, that's not the direction I want.",Deny
+"Nah, I'm not going with that.",Deny
+"Nope, that's not gonna cut it.",Deny
+"No, that's not the best way.",Deny
+"Nah, I don't think that's necessary.",Deny
+"Nope, I'm not sure about that.",Deny
+"Nah, that's not what I had in mind.",Deny
+"No, I don't think that's the right solution.",Deny
+"Nope, I don't see that working.",Deny
+"Nah, I'm not feeling that plan.",Deny
+"No, that's not the right move.",Deny
+"Nah, not a good idea.",Deny
+"Nope, that's not the best course.",Deny
+"No, I don't think that's gonna work.",Deny
+"Nah, that's not my choice.",Deny
+"Nope, that's not gonna happen.",Deny
+"No, that's not what I want.",Deny
+"Nah, I don't see that being effective.",Deny
+"Nope, that's not the right fit.",Deny
+"Nah, I don't think that's a good direction.",Deny
+"No, that's not working for me.",Deny
+"Nah, that's not the answer.",Deny
+"Nope, not what I'm looking for.",Deny
+"No, I don't think that's a good idea.",Deny
+"Nah, that's not my thing.",Deny
+"Nope, I don't think so.",Deny
+"Nah, that's not right.",Deny
+"No, that's not going to work.",Deny
+"Nah, I'm not convinced that's the way.",Deny
+"Nope, that's not the best option.",Deny
+"Nah, I'm not sure about that.",Deny
+"No, that's not what I had in mind.",Deny
+"Nope, that's not the direction I want to go.",Deny
+"Nah, I don't see that working out.",Deny
+"No, I'm not going with that plan.",Deny
+"Nah, that's not a good fit.",Deny
+"Nope, I don't think that's gonna be effective.",Deny
+"Nah, that's not the best approach.",Deny
+"No, that's not what I was thinking.",Deny
+"Nah, I don't think that's the right path.",Deny
+"Nope, not feeling that idea.",Deny
+"Nah, that's not the right move.",Deny
+"No, I don't think that's the best solution.",Deny
+"Nah, that's not going to happen.",Deny
+"Nope, that's not the answer.",Deny
+"Nah, I don't agree with that.",Deny
+"No, that's not the way to go.",Deny
+"Nah, I'm not into that.",Deny
+"Nope, not what I'm after.",Deny
+"Nah, that's not the right call.",Deny
+"No, I don't think that's necessary.",Deny
+"Nah, I don't think that's the right approach.",Deny
+"Nope, that's not what I want.",Deny
+"Nah, I don't think that's gonna work.",Deny
+"No, that's not what I'm looking for.",Deny
+"Nah, that's not the right direction.",Deny
+"Nope, I don't think that's a good idea.",Deny
+"Nah, I'm not on board with that.",Deny
+"No, that's not gonna cut it.",Deny
+"Nah, I don't think that's the answer.",Deny
+"Nope, not going to work.",Deny
+"Nah, I don't think so.",Deny
+"No, that's not what I want to do.",Deny
+"Nah, that's not gonna happen.",Deny
+"Nope, that's not what I was thinking.",Deny
+"Nah, I don't see that working.",Deny
+"No, that's not the right move.",Deny
+"Nah, I don't think that's the best plan.",Deny
+"Nope, that's not the right fit.",Deny
+"Nah, that's not what I want.",Deny
+"No, I don't think that's going to be effective.",Deny
+"Nah, that's not the best option.",Deny
+"Nope, not a good idea.",Deny
+"Nah, I'm not feeling it.",Deny
+"No, that's not the right direction.",Deny
+"Nah, I'm not interested.",Deny
+"Nope, that's not what I'm looking for.",Deny
+"Nah, I don't agree.",Deny
+"No, that's not the right move.",Deny
+"Nah, I'm not down for that.",Deny
+"Nope, that's not gonna work for me.",Deny
+"Nah, I'm not convinced.",Deny
+"No, that's not what I want to do.",Deny
+"Nah, I don't think that's necessary.",Deny
+"Nope, that's not the best choice.",Deny
+"Nah, I'm not sure about that.",Deny
+"No, that's not the right direction.",Deny
+"Nah, I don't think that's going to work.",Deny
+"Nope, not the best approach.",Deny
+"Nah, that's not the way to go.",Deny
+"No, that's not it for me.",Deny
+"Nah, that's not the right solution.",Deny
+"Nope, that's not the answer.",Deny
+"Nah, I'm not interested in that.",Deny
+"No, that's not what I'm looking for.",Deny
+"Nah, I don't think so.",Deny
+"Nope, that's not what I want.",Deny
+"Nah, I'm not on board with that idea.",Deny
+"No, I don't think that's going to happen.",Deny
+"Nah, I don't think that's the best approach.",Deny
+"Nope, not feeling that.",Deny
+"Nah, that's not what I had in mind.",Deny
+"No, I don't think that's the right path.",Deny
+"Nah, that's not my thing.",Deny
+"Nope, that's not gonna cut it.",Deny
+"Nah, I don't think that's a good idea.",Deny
+"No, I'm not convinced that's the way.",Deny
+"Nah, that's not the right direction.",Deny
+"Nope, that's not what I was thinking.",Deny
+"Nah, that's not the best move.",Deny
+"No, I don't think that's gonna work out.",Deny
+"Nah, I'm not into that idea.",Deny
+"Nope, that's not what I had in mind.",Deny
+"Nah, that's not going to work.",Deny
+"No, I don't think that's the right call.",Deny
+"Nah, I'm not feeling that.",Deny
+"Nope, that's not the answer.",Deny
+"Nah, that's not the best approach.",Deny
+"No, that's not what I want.",Deny
+"Nah, that's not what I need.",Deny
+"Nope, that's not the right solution.",Deny
+"Nah, I don't think so.",Deny
+"No, I'm not interested in that.",Deny
+"Nah, I don't agree.",Deny
+"Nope, that's not gonna work out.",Deny
+"Nah, that's not the best choice.",Deny
+"No, that's not the right way.",Deny
+"Nah, I'm not feeling it.",Deny
+"Nope, that's not what I want to do.",Deny
+"Nah, that's not the right move.",Deny
+"No, that's not gonna cut it.",Deny
+"Nah, I'm not convinced.",Deny
+"Nope, that's not the best option",Deny
+Disagree,Deny
+I disagree,Deny
+I do not think,Deny
+I deny,Deny
+I deny this offer,Deny

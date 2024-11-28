@@ -1,0 +1,481 @@
+Sample,Intent
+My name is Ahmed.,Inform_Name
+I am Aisha.,Inform_Name
+"Hello, I am Bilal.",Inform_Name
+My name is Sara.,Inform_Name
+I go by the name of Ali.,Inform_Name
+I am Fatima.,Inform_Name
+You can call me Usman.,Inform_Name
+I am Amna.,Inform_Name
+My name is Imran.,Inform_Name
+I am Sana.,Inform_Name
+I go by the name of Tariq.,Inform_Name
+My name is Hina.,Inform_Name
+I am Faisal.,Inform_Name
+"Hello, I am Nadia.",Inform_Name
+My name is Osama.,Inform_Name
+I am Mariam.,Inform_Name
+You can call me Hasan.,Inform_Name
+I am Rabia.,Inform_Name
+My name is Saad.,Inform_Name
+I am Meher.,Inform_Name
+"Hello, my name is Kamran.",Inform_Name
+I go by the name of Haseeb.,Inform_Name
+My name is Alina.,Inform_Name
+I am Bilal.,Inform_Name
+You can call me Naeem.,Inform_Name
+I am Javeria.,Inform_Name
+My name is Danish.,Inform_Name
+I am Neha.,Inform_Name
+"Hello, I am Zubair.",Inform_Name
+My name is Saira.,Inform_Name
+I am Mohtashim.,Inform_Name
+You can call me Ayesha.,Inform_Name
+I am Waqas.,Inform_Name
+My name is Shahida.,Inform_Name
+I am Khalid.,Inform_Name
+"Hello, my name is Anum.",Inform_Name
+I go by the name of Sarmad.,Inform_Name
+My name is Kiran.,Inform_Name
+I am Usman.,Inform_Name
+You can call me Farah.,Inform_Name
+I am Adnan.,Inform_Name
+My name is Uzma.,Inform_Name
+"Hello, I am Tariq.",Inform_Name
+I am Adeel.,Inform_Name
+My name is Gul.,Inform_Name
+I am Zainab.,Inform_Name
+You can call me Hamza.,Inform_Name
+I am Nida.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Sehrish.,Inform_Name
+"Hello, my name is Bilal.",Inform_Name
+My name is Sara.,Inform_Name
+I am Anwar.,Inform_Name
+You can call me Rida.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Naveed.,Inform_Name
+I am Hania.,Inform_Name
+"Hello, I am Ameen.",Inform_Name
+I go by the name of Samina.,Inform_Name
+My name is Imran.,Inform_Name
+I am Munir.,Inform_Name
+You can call me Naila.,Inform_Name
+I am Rashid.,Inform_Name
+My name is Shazia.,Inform_Name
+"Hello, my name is Shahid.",Inform_Name
+I am Aysha.,Inform_Name
+You can call me Asim.,Inform_Name
+I am Muneeb.,Inform_Name
+My name is Zain.,Inform_Name
+I am Humaira.,Inform_Name
+"Hello, I am Ahsan.",Inform_Name
+I go by the name of Sana.,Inform_Name
+My name is Wali.,Inform_Name
+I am Ruqaiya.,Inform_Name
+You can call me Kamran.,Inform_Name
+I am Hina.,Inform_Name
+My name is Khadija.,Inform_Name
+I am Rehman.,Inform_Name
+"Hello, I am Saira.",Inform_Name
+You can call me Madiha.,Inform_Name
+I am Khalid.,Inform_Name
+My name is Tanveer.,Inform_Name
+I am Sonia.,Inform_Name
+"Hello, I am Faisal.",Inform_Name
+I go by the name of Rabia.,Inform_Name
+My name is Zeeshan.,Inform_Name
+I am Farhan.,Inform_Name
+You can call me Aisha.,Inform_Name
+I am Raza.,Inform_Name
+My name is Shahnaz.,Inform_Name
+I am Yasir.,Inform_Name
+"Hello, I am Shumaila.",Inform_Name
+You can call me Umair.,Inform_Name
+I am Nida.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Amna.,Inform_Name
+"Hello, I am Sameer.",Inform_Name
+My name is Naila.,Inform_Name
+I am Yasir.,Inform_Name
+You can call me Meher.,Inform_Name
+I am Ayesha.,Inform_Name
+My name is Haroon.,Inform_Name
+I am Asma.,Inform_Name
+"Hello, I am Hamza.",Inform_Name
+I go by the name of Saima.,Inform_Name
+My name is Junaid.,Inform_Name
+I am Fariha.,Inform_Name
+You can call me Bilal.,Inform_Name
+I am Munir.,Inform_Name
+My name is Rukhsar.,Inform_Name
+I am Kamran.,Inform_Name
+"Hello, I am Tariq.",Inform_Name
+You can call me Muneeb.,Inform_Name
+I am Nasir.,Inform_Name
+My name is Haseeb.,Inform_Name
+I am Fariha.,Inform_Name
+"Hello, my name is Naveed.",Inform_Name
+I go by the name of Javeria.,Inform_Name
+My name is Yousuf.,Inform_Name
+I am Rida.,Inform_Name
+You can call me Iqbal.,Inform_Name
+I am Saira.,Inform_Name
+My name is Ali.,Inform_Name
+I am Tanveer.,Inform_Name
+"Hello, I am Zara.",Inform_Name
+You can call me Umair.,Inform_Name
+I am Zain.,Inform_Name
+My name is Samina.,Inform_Name
+I am Hafsa.,Inform_Name
+"Hello, I am Ahmed.",Inform_Name
+You can call me Javed.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Noor.,Inform_Name
+I am Ahmad.,Inform_Name
+"Hello, my name is Khadija.",Inform_Name
+You can call me Hussain.,Inform_Name
+I am Imran.,Inform_Name
+My name is Alina.,Inform_Name
+I am Waqas.,Inform_Name
+"Hello, I am Yasmin.",Inform_Name
+My name is Khadija.,Inform_Name
+I am Tanveer.,Inform_Name
+You can call me Samia.,Inform_Name
+I am Faizan.,Inform_Name
+My name is Nadia.,Inform_Name
+I am Shahnaz.,Inform_Name
+"Hello, my name is Zubair.",Inform_Name
+You can call me Kamran.,Inform_Name
+I am Noor.,Inform_Name
+My name is Rizwan.,Inform_Name
+I am Meher.,Inform_Name
+"Hello, I am Fariha.",Inform_Name
+You can call me Hina.,Inform_Name
+I am Sana.,Inform_Name
+My name is Asif.,Inform_Name
+I am Rehman.,Inform_Name
+"Hello, my name is Zeeshan.",Inform_Name
+You can call me Humaira.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Zainab.,Inform_Name
+I am Ahmed.,Inform_Name
+"Hello, I am Bilal.",Inform_Name
+You can call me Usman.,Inform_Name
+I am Nadia.,Inform_Name
+My name is Shahid.,Inform_Name
+I am Sonia.,Inform_Name
+"Hello, I am Aisha.",Inform_Name
+You can call me Hasan.,Inform_Name
+I am Alina.,Inform_Name
+My name is Raheel.,Inform_Name
+I am Humaira.,Inform_Name
+"Hello, my name is Sana.",Inform_Name
+You can call me Ijaz.,Inform_Name
+I am Kiran.,Inform_Name
+My name is Samir.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, I am Imran.",Inform_Name
+You can call me Saira.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Javeria.,Inform_Name
+I am Saad.,Inform_Name
+"Hello, my name is Gul.",Inform_Name
+You can call me Yousuf.,Inform_Name
+I am Maryam.,Inform_Name
+My name is Muneeb.,Inform_Name
+I am Zainab.,Inform_Name
+"Hello, I am Muhammad.",Inform_Name
+You can call me Bilal.,Inform_Name
+I am Anum.,Inform_Name
+My name is Anwar.,Inform_Name
+I am Amina.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Rabia.,Inform_Name
+I am Usman.,Inform_Name
+My name is Farhan.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, I am Imran.",Inform_Name
+You can call me Hina.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Farah.,Inform_Name
+I am Ahmed.,Inform_Name
+"Hello, my name is Mariam.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Waqas.,Inform_Name
+My name is Fariha.,Inform_Name
+I am Asim.,Inform_Name
+"Hello, my name is Zeeshan.",Inform_Name
+You can call me Sana.,Inform_Name
+I am Imran.,Inform_Name
+My name is Aisha.,Inform_Name
+I am Faizan.,Inform_Name
+"Hello, I am Javeria.",Inform_Name
+You can call me Hina.,Inform_Name
+I am Kamran.,Inform_Name
+My name is Yasir.,Inform_Name
+I am Alina.,Inform_Name
+"Hello, my name is Noor.",Inform_Name
+You can call me Saad.,Inform_Name
+I am Amina.,Inform_Name
+My name is Hafsa.,Inform_Name
+I am Zain.,Inform_Name
+"Hello, I am Adeel.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Sana.,Inform_Name
+My name is Sara.,Inform_Name
+I am Ahmed.,Inform_Name
+"Hello, my name is Yasmin.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Nadia.,Inform_Name
+My name is Usman.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, I am Amina.",Inform_Name
+You can call me Fariha.,Inform_Name
+I am Rehman.,Inform_Name
+My name is Samina.,Inform_Name
+I am Ali.,Inform_Name
+"Hello, my name is Usman.",Inform_Name
+You can call me Saira.,Inform_Name
+I am Tanveer.,Inform_Name
+My name is Kiran.,Inform_Name
+I am Naila.,Inform_Name
+"Hello, I am Haseeb.",Inform_Name
+You can call me Zubair.,Inform_Name
+I am Saad.,Inform_Name
+My name is Aisha.,Inform_Name
+I am Rabia.,Inform_Name
+"Hello, my name is Tariq.",Inform_Name
+You can call me Mariam.,Inform_Name
+I am Faizan.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Usman.,Inform_Name
+"Hello, my name is Ahmed.",Inform_Name
+You can call me Yasir.,Inform_Name
+I am Sana.,Inform_Name
+My name is Adeel.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, I am Hina.",Inform_Name
+You can call me Anum.,Inform_Name
+I am Rehman.,Inform_Name
+My name is Khadija.,Inform_Name
+I am Imran.,Inform_Name
+"Hello, my name is Zain.",Inform_Name
+You can call me Kamran.,Inform_Name
+I am Amina.,Inform_Name
+My name is Samia.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, I am Rabia.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Sana.,Inform_Name
+My name is Tariq.,Inform_Name
+I am Aisha.,Inform_Name
+"Hello, my name is Yasmin.",Inform_Name
+You can call me Kiran.,Inform_Name
+I am Usman.,Inform_Name
+My name is Adeel.,Inform_Name
+I am Alina.,Inform_Name
+"Hello, my name is Naila.",Inform_Name
+You can call me Bilal.,Inform_Name
+I am Sara.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Faizan.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Rehman.,Inform_Name
+I am Sana.,Inform_Name
+My name is Anum.,Inform_Name
+I am Yasir.,Inform_Name
+"Hello, I am Hina.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Saira.,Inform_Name
+I am Aisha.,Inform_Name
+"Hello, my name is Kiran.",Inform_Name
+You can call me Rabia.,Inform_Name
+I am Kamran.,Inform_Name
+My name is Sara.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, I am Tariq.",Inform_Name
+You can call me Fariha.,Inform_Name
+I am Ahmed.,Inform_Name
+My name is Haseeb.,Inform_Name
+I am Sana.,Inform_Name
+"Hello, my name is Yasir.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Usman.,Inform_Name
+My name is Alina.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, I am Imran.",Inform_Name
+You can call me Sana.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Amina.,Inform_Name
+I am Faizan.,Inform_Name
+"Hello, my name is Khadija.",Inform_Name
+You can call me Anum.,Inform_Name
+I am Usman.,Inform_Name
+My name is Naila.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, I am Ahmed.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Sana.,Inform_Name
+My name is Asim.,Inform_Name
+I am Alina.,Inform_Name
+"Hello, my name is Kiran.",Inform_Name
+You can call me Usman.,Inform_Name
+I am Ayesha.,Inform_Name
+My name is Saad.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, my name is Haseeb.",Inform_Name
+You can call me Fariha.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Farhan.,Inform_Name
+I am Yasir.,Inform_Name
+"Hello, my name is Sana.",Inform_Name
+You can call me Rabia.,Inform_Name
+I am Imran.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, I am Asim.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Usman.,Inform_Name
+My name is Fariha.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, my name is Yasmin.",Inform_Name
+You can call me Ahmed.,Inform_Name
+I am Sana.,Inform_Name
+My name is Tariq.,Inform_Name
+I am Naila.,Inform_Name
+"Hello, I am Aisha.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Alina.,Inform_Name
+I am Faizan.,Inform_Name
+"Hello, my name is Kiran.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Sana.,Inform_Name
+My name is Rabia.,Inform_Name
+I am Imran.,Inform_Name
+"Hello, my name is Amina.",Inform_Name
+You can call me Bilal.,Inform_Name
+I am Sara.,Inform_Name
+My name is Khadija.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, I am Yasir.",Inform_Name
+You can call me Aisha.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Sana.,Inform_Name
+I am Naila.,Inform_Name
+"Hello, my name is Hina.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Sara.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, I am Asim.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Sana.,Inform_Name
+My name is Fariha.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Aisha.,Inform_Name
+I am Imran.,Inform_Name
+My name is Sara.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, my name is Tariq.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Amina.,Inform_Name
+My name is Faizan.,Inform_Name
+I am Yasir.,Inform_Name
+"Hello, my name is Bilal.",Inform_Name
+You can call me Sana.,Inform_Name
+I am Imran.,Inform_Name
+My name is Aisha.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Bilal.,Inform_Name
+I am Sara.,Inform_Name
+My name is Sana.,Inform_Name
+I am Usman.,Inform_Name
+"Hello, my name is Adeel.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Sara.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, my name is Haseeb.",Inform_Name
+You can call me Aisha.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Alina.,Inform_Name
+I am Usman.,Inform_Name
+"Hello, my name is Sara.",Inform_Name
+You can call me Faizan.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Sana.,Inform_Name
+I am Imran.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Aisha.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, my name is Usman.",Inform_Name
+You can call me Bilal.,Inform_Name
+I am Sara.,Inform_Name
+My name is Naila.,Inform_Name
+I am Sana.,Inform_Name
+"Hello, my name is Faizan.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Aisha.,Inform_Name
+I am Khadija.,Inform_Name
+"Hello, my name is Sana.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, my name is Sara.",Inform_Name
+You can call me Naila.,Inform_Name
+I am Sana.,Inform_Name
+My name is Alina.,Inform_Name
+I am Faizan.,Inform_Name
+"Hello, my name is Tariq.",Inform_Name
+You can call me Usman.,Inform_Name
+I am Sara.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Imran.,Inform_Name
+"Hello, my name is Aisha.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Sana.,Inform_Name
+I am Bilal.,Inform_Name
+"Hello, my name is Nadia.",Inform_Name
+You can call me Faizan.,Inform_Name
+I am Sara.,Inform_Name
+My name is Ahmed.,Inform_Name
+I am Imran.,Inform_Name
+"Hello, my name is Khadija.",Inform_Name
+You can call me Tariq.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Sana.,Inform_Name
+I am Sara.,Inform_Name
+"Hello, my name is Faizan.",Inform_Name
+You can call me Ahmed.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Naila.,Inform_Name
+"Hello, my name is Aisha.",Inform_Name
+You can call me Sana.,Inform_Name
+I am Sara.,Inform_Name
+My name is Bilal.,Inform_Name
+I am Tariq.,Inform_Name
+"Hello, my name is Ahmed.",Inform_Name
+You can call me Imran.,Inform_Name
+I am Faizan.,Inform_Name
+My name is Sana.,Inform_Name
+I am Khadija.,Inform_Name
+"Hello, my name is Bilal.",Inform_Name
+You can call me Aisha.,Inform_Name
+I am Tariq.,Inform_Name
+My name is Sara.,Inform_Name
+I am Usman.,Inform_Name
+"Hello, my name is Faizan.",Inform_Name
+You can call me Khadija.,Inform_Name
+I am Bilal.,Inform_Name
+My name is Sana.,Inform_Name

@@ -1,0 +1,520 @@
+Sample,Intent
+Hello,Greeting
+Good morning,Greeting
+Good afternoon,Greeting
+Good evening,Greeting
+Hi there,Greeting
+Hello there,Greeting
+Greetings,Greeting
+Hey,Greeting
+Hi,Greeting
+How do you do,Greeting
+Good day,Greeting
+Nice to meet you,Greeting
+It is nice to meet you,Greeting
+Pleased to meet you,Greeting
+How are you,Greeting
+How is it going,Greeting
+How have you been,Greeting
+How are you doing today,Greeting
+What is up,Greeting
+Good to see you,Greeting
+Long time no see,Greeting
+I hope you are doing well,Greeting
+How have you been doing,Greeting
+How do you do today,Greeting
+How are things,Greeting
+How is everything,Greeting
+It is good to see you,Greeting
+"Hi, how are you",Greeting
+"Hi, how is it going",Greeting
+"Hey, what is up",Greeting
+"Hello, how are you today",Greeting
+"Hey, how are you",Greeting
+"Good morning, how are you",Greeting
+"Good afternoon, how are you",Greeting
+"Good evening, how are you",Greeting
+"Hi there, how are you",Greeting
+"Hello there, how are you",Greeting
+"Hello, it is good to see you",Greeting
+"Hey, how have you been",Greeting
+"Hi, how have you been",Greeting
+"Hello, how have you been",Greeting
+How are you today,Greeting
+What is new,Greeting
+How is your day going,Greeting
+How is life,Greeting
+"Hello, how is your day going",Greeting
+"Hi, how is your day going",Greeting
+"Hey, how is your day going",Greeting
+Good to see you again,Greeting
+It is good to see you again,Greeting
+Nice to see you,Greeting
+Nice to see you again,Greeting
+Hello again,Greeting
+Hi again,Greeting
+Hey again,Greeting
+Good to see you once more,Greeting
+"Hi, nice to see you",Greeting
+"Hello, nice to see you",Greeting
+"Hey, nice to see you",Greeting
+What is going on,Greeting
+How is it going today,Greeting
+How is your day,Greeting
+What is happening,Greeting
+"Good morning, how are you doing",Greeting
+"Good afternoon, how are you doing",Greeting
+"Good evening, how are you doing",Greeting
+"Hi, how are you doing",Greeting
+"Hello, how are you doing",Greeting
+"Hey, how are you doing",Greeting
+What is happening today,Greeting
+What is going on today,Greeting
+How are you feeling today,Greeting
+What have you been up to,Greeting
+What are you up to,Greeting
+"Hi, how have you been doing",Greeting
+"Hello, how have you been doing",Greeting
+"Hey, how have you been doing",Greeting
+What is new with you,Greeting
+What have you been doing,Greeting
+How have you been getting on,Greeting
+How have you been feeling,Greeting
+What is going on with you,Greeting
+How is everything going,Greeting
+How is it going with you,Greeting
+What is the news,Greeting
+What is the latest,Greeting
+What is the word,Greeting
+"Hi, how are things going",Greeting
+"Hello, how are things going",Greeting
+"Hey, how are things going",Greeting
+What is the latest news,Greeting
+How is your day today,Greeting
+How is it today,Greeting
+What is new today,Greeting
+"Hello, what is going on",Greeting
+"Hi, what is going on",Greeting
+"Hey, what is going on",Greeting
+What have you been up to today,Greeting
+How has your day been,Greeting
+How has it been today,Greeting
+How is the day treating you,Greeting
+"Good morning, what is up",Greeting
+"Good afternoon, what is up",Greeting
+"Good evening, what is up",Greeting
+"Hi, what is up",Greeting
+"Hello, what is up",Greeting
+"Hey, what is up",Greeting
+How are you this morning,Greeting
+How are you this afternoon,Greeting
+How are you this evening,Greeting
+What is the word today,Greeting
+"Hi, how are things",Greeting
+"Hello, how are things",Greeting
+"Hey, how are things",Greeting
+How has your day been going,Greeting
+How are you getting on,Greeting
+"Hi, what is new with you",Greeting
+"Hello, what is new with you",Greeting
+"Hey, what is new with you",Greeting
+"Hi, what have you been doing",Greeting
+"Hello, what have you been doing",Greeting
+"Hey, what have you been doing",Greeting
+How are you feeling,Greeting
+"Hi, how are you feeling",Greeting
+"Hello, how are you feeling",Greeting
+"Hey, how are you feeling",Greeting
+How is everything with you,Greeting
+"Hi, how is everything with you",Greeting
+"Hello, how is everything with you",Greeting
+"Hey, how is everything with you",Greeting
+"Hi, how is it going with you",Greeting
+"Hello, how is it going with you",Greeting
+"Hey, how is it going with you",Greeting
+How are you getting on today,Greeting
+What is up with you,Greeting
+"Hi, what is up with you",Greeting
+"Hello, what is up with you",Greeting
+"Hey, what is up with you",Greeting
+How has it been,Greeting
+"Hi, how has it been",Greeting
+"Hello, how has it been",Greeting
+"Hey, how has it been",Greeting
+"Hi, how has it been going",Greeting
+"Hello, how has it been going",Greeting
+"Hey, how has it been going",Greeting
+What have you been up to lately,Greeting
+"Hi, what have you been up to lately",Greeting
+"Hello, what have you been up to lately",Greeting
+"Hey, what have you been up to lately",Greeting
+How is life treating you,Greeting
+"Hi, how is life treating you",Greeting
+"Hello, how is life treating you",Greeting
+"Hey, how is life treating you",Greeting
+What has been going on,Greeting
+"Hi, what has been going on",Greeting
+"Hello, what has been going on",Greeting
+"Hey, what has been going on",Greeting
+How have things been,Greeting
+"Hi, how have things been",Greeting
+"Hello, how have things been",Greeting
+"Hey, how have things been",Greeting
+How are things with you,Greeting
+"Hi, how are things with you",Greeting
+"Hello, how are things with you",Greeting
+"Hey, how are things with you",Greeting
+How are things going,Greeting
+"Hi, how are things going",Greeting
+"Hello, how are things going",Greeting
+"Hey, how are things going",Greeting
+How are things going with you,Greeting
+"Hi, how are things going with you",Greeting
+"Hello, how are things going with you",Greeting
+"Hey, how are things going with you",Greeting
+What has been happening,Greeting
+"Hi, what has been happening",Greeting
+"Hello, what has been happening",Greeting
+"Hey, what has been happening",Greeting
+How have you been feeling lately,Greeting
+"Hi, how have you been feeling lately",Greeting
+"Hello, how have you been feeling lately",Greeting
+"Hey, how have you been feeling lately",Greeting
+What has been new,Greeting
+"Hi, what has been new",Greeting
+"Hello, what has been new",Greeting
+"Hey, what has been new",Greeting
+What is going on with you today,Greeting
+"Hi, what is going on with you today",Greeting
+"Hello, what is going on with you today",Greeting
+"Hey, what is going on with you today",Greeting
+How is your day going so far,Greeting
+"Hi, how is your day going so far",Greeting
+"Hello, how is your day going so far",Greeting
+"Hey, how is your day going so far",Greeting
+What have you been up to these days,Greeting
+"Hi, what have you been up to these days",Greeting
+"Hello, what have you been up to these days",Greeting
+"Hey, what have you been up to these days",Greeting
+Assalam Alaikum,Greeting
+Wa Alaikum Assalam,Greeting
+Peace be upon you,Greeting
+Peace and blessings,Greeting
+Good day to you,Greeting
+Wishing you a good day,Greeting
+Hello and welcome,Greeting
+"Hi there, nice to see you",Greeting
+Greetings to you,Greeting
+"Hi, how have you been",Greeting
+Good to see you today,Greeting
+Nice to see you today,Greeting
+How is everything with you,Greeting
+Hope you are doing well,Greeting
+How are you this fine day,Greeting
+What is new with you today,Greeting
+How have things been going,Greeting
+It is nice to see you again,Greeting
+Long time no speak,Greeting
+"Hi there, how are you",Greeting
+"Hello, hope all is well",Greeting
+"Assalam Alaikum, how are you",Greeting
+"Wa Alaikum Assalam, how have you been",Greeting
+"Hello, I hope you are well",Greeting
+How is your morning going,Greeting
+How is your afternoon going,Greeting
+How is your evening going,Greeting
+"Hi, it has been a while",Greeting
+"Hello, it has been a while",Greeting
+"Hey, good to see you again",Greeting
+"Good to see you, how is life",Greeting
+"Hi, what is going on today",Greeting
+"Hello, how is it today",Greeting
+"Hey, what is happening today",Greeting
+How are things today,Greeting
+How is everything today,Greeting
+"Hello, good to see you",Greeting
+"Hi, hope you are well",Greeting
+"Hello, hope everything is fine",Greeting
+"Hey, how are you today",Greeting
+How is your day going,Greeting
+"Good morning, how are things",Greeting
+"Good afternoon, how are things",Greeting
+"Good evening, how are things",Greeting
+"Hi, what is up today",Greeting
+"Hello, what is up today",Greeting
+"Hey, what is up today",Greeting
+How is your day going so far,Greeting
+How is your week going,Greeting
+"Hi, how is your week",Greeting
+"Hello, how is your week",Greeting
+"Hey, how is your week",Greeting
+How have you been this week,Greeting
+How are you this week,Greeting
+What is new with you this week,Greeting
+How has your week been,Greeting
+"Hi, what have you been up to",Greeting
+"Hello, what have you been up to",Greeting
+"Hey, what have you been up to",Greeting
+How have things been going lately,Greeting
+What has been happening lately,Greeting
+What is new lately,Greeting
+"Hi, how is your day going today",Greeting
+"Hello, how is your day going today",Greeting
+"Hey, how is your day going today",Greeting
+"Good to see you today, how is everything",Greeting
+"Hi, how have things been",Greeting
+"Hello, how have things been",Greeting
+"Hey, how have things been",Greeting
+What is happening today,Greeting
+"Good morning, how is it going",Greeting
+"Good afternoon, how is it going",Greeting
+"Good evening, how is it going",Greeting
+"Hi, how is your morning going",Greeting
+"Hello, how is your morning going",Greeting
+"Hey, how is your morning going",Greeting
+"Good to see you, how are you today",Greeting
+"Hi, how is everything going",Greeting
+"Hello, how is everything going",Greeting
+"Hey, how is everything going",Greeting
+"Good to see you, what is up",Greeting
+"Hi, what is new with you today",Greeting
+"Hello, what is new with you today",Greeting
+"Hey, what is new with you today",Greeting
+"Hi, how is your afternoon going",Greeting
+"Hello, how is your afternoon going",Greeting
+"Hey, how is your afternoon going",Greeting
+"Good to see you, how have you been",Greeting
+"Hi, how is your day going so far",Greeting
+"Hello, how is your day going so far",Greeting
+"Hey, how is your day going so far",Greeting
+"Hi, how have you been feeling",Greeting
+"Hello, how have you been feeling",Greeting
+"Hey, how have you been feeling",Greeting
+How is it going this morning,Greeting
+How is it going this afternoon,Greeting
+How is it going this evening,Greeting
+"Good morning, what is new",Greeting
+"Good afternoon, what is new",Greeting
+"Good evening, what is new",Greeting
+"Hi, what has been happening",Greeting
+"Hello, what has been happening",Greeting
+"Hey, what has been happening",Greeting
+"Hi, good to see you",Greeting
+"Hello, good to see you",Greeting
+"Hey, good to see you",Greeting
+"Hi, what have you been up to today",Greeting
+"Hello, what have you been up to today",Greeting
+"Hey, what have you been up to today",Greeting
+How is everything going today,Greeting
+"Hi, how is everything going today",Greeting
+"Hello, how is everything going today",Greeting
+"Hey, how is everything going today",Greeting
+"Good morning, how is your day",Greeting
+"Good afternoon, how is your day",Greeting
+"Good evening, how is your day",Greeting
+"Hi, how are you feeling today",Greeting
+"Hello, how are you feeling today",Greeting
+"Hey, how are you feeling today",Greeting
+"Hi, how is everything with you today",Greeting
+"Hello, how is everything with you today",Greeting
+"Hey, how is everything with you today",Greeting
+How has your day been going,Greeting
+"Hi, how has your day been going",Greeting
+"Hello, how has your day been going",Greeting
+"Hey, how has your day been going",Greeting
+What have you been up to this week,Greeting
+"Hi, what have you been up to this week",Greeting
+"Hello, what have you been up to this week",Greeting
+"Hey, what have you been up to this week",Greeting
+How is everything going this week,Greeting
+"Hi, how is everything going this week",Greeting
+"Hello, how is everything going this week",Greeting
+"Hey, how is everything going this week",Greeting
+"Good morning, how have you been",Greeting
+"Good afternoon, how have you been",Greeting
+"Good evening, how have you been",Greeting
+"Hi, how are you doing this morning",Greeting
+"Hello, how are you doing this morning",Greeting
+"Hey, how are you doing this morning",Greeting
+"Hi, how are you doing this afternoon",Greeting
+"Hello, how are you doing this afternoon",Greeting
+"Hey, how are you doing this afternoon",Greeting
+"Hi, how are you doing this evening",Greeting
+"Hello, how are you doing this evening",Greeting
+"Hey, how are you doing this evening",Greeting
+"Hi, what is happening this morning",Greeting
+"Hello, what is happening this morning",Greeting
+"Hey, what is happening this morning",Greeting
+"Hi, what is happening this afternoon",Greeting
+"Hello, what is happening this afternoon",Greeting
+"Hey, what is happening this afternoon",Greeting
+"Hi, what is happening this evening",Greeting
+"Hello, what is happening this evening",Greeting
+"Hey, what is happening this evening",Greeting
+"Hi, how has your morning been",Greeting
+"Hello, how has your morning been",Greeting
+"Hey, how has your morning been",Greeting
+"Hi, how has your afternoon been",Greeting
+"Hello, how has your afternoon been",Greeting
+"Hey, how has your afternoon been",Greeting
+"Hi, how has your evening been",Greeting
+"Hello, how has your evening been",Greeting
+"Hey, how has your evening been",Greeting
+"Good morning, how is life",Greeting
+"Good afternoon, how is life",Greeting
+"Good evening, how is life",Greeting
+"Hi, how is life going",Greeting
+"Hello, how is life going",Greeting
+"Hey, how is life going",Greeting
+"Hi, what is new this morning",Greeting
+"Hello, what is new this morning",Greeting
+"Hey, what is new this morning",Greeting
+"Hi, what is new this afternoon",Greeting
+"Hello, what is new this afternoon",Greeting
+"Hey, what is new this afternoon",Greeting
+"Hi, what is new this evening",Greeting
+"Hello, what is new this evening",Greeting
+"Hey, what is new this evening",Greeting
+"Hi, what has been new",Greeting
+"Hello, what has been new",Greeting
+"Hey, what has been new",Greeting
+"Hi, how has your week been",Greeting
+"Hello, how has your week been",Greeting
+"Hey, how has your week been",Greeting
+"Hi, how are you doing today",Greeting
+"Hello, how are you doing today",Greeting
+"Hey, how are you doing today",Greeting
+"Hi, what have you been up to lately",Greeting
+"Hello, what have you been up to lately",Greeting
+"Hey, what have you been up to lately",Greeting
+"Hi, how have you been doing",Greeting
+"Hello, how have you been doing",Greeting
+"Hey, how have you been doing",Greeting
+"Hi, it is nice to meet you",Greeting
+"Hello, it is nice to meet you",Greeting
+"Hey, it is nice to meet you",Greeting
+"Hi, good to meet you",Greeting
+"Hello, good to meet you",Greeting
+"Hey, good to meet you",Greeting
+"Hi, how has your day been today",Greeting
+"Hello, how has your day been today",Greeting
+"Hey, how has your day been today",Greeting
+"Hi, how is life treating you today",Greeting
+"Hello, how is life treating you today",Greeting
+"Hey, how is life treating you today",Greeting
+"Hi, what is happening today",Greeting
+"Hello, what is happening today",Greeting
+"Hey, what is happening today",Greeting
+"Hi, how have you been lately",Greeting
+"Hello, how have you been lately",Greeting
+"Hey, how have you been lately",Greeting
+"Hi, what has been going on",Greeting
+"Hello, what has been going on",Greeting
+"Hey, what has been going on",Greeting
+"Good to see you, how have things been",Greeting
+"Hi, what has been happening today",Greeting
+"Hello, what has been happening today",Greeting
+"Hey, what has been happening today",Greeting
+"Hi, how are things today",Greeting
+"Hello, how are things today",Greeting
+"Hey, how are things today",Greeting
+"Hi, how has life been treating you",Greeting
+"Hello, how has life been treating you",Greeting
+"Hey, how has life been treating you",Greeting
+"Hi, what is new with you",Greeting
+"Hello, what is new with you",Greeting
+"Hey, what is new with you",Greeting
+"Good morning, how are you feeling",Greeting
+"Good afternoon, how are you feeling",Greeting
+"Good evening, how are you feeling",Greeting
+"Hi, how are you doing lately",Greeting
+"Hello, how are you doing lately",Greeting
+"Hey, how are you doing lately",Greeting
+"Hi, what is going on today",Greeting
+"Hello, what is going on today",Greeting
+"Hey, what is going on today",Greeting
+"Hi, how is life treating you",Greeting
+"Hello, how is life treating you",Greeting
+"Hey, how is life treating you",Greeting
+"Hi, how has everything been going",Greeting
+"Hello, how has everything been going",Greeting
+"Hey, how has everything been going",Greeting
+"Hi, how has your day been going so far",Greeting
+"Hello, how has your day been going so far",Greeting
+"Hey, how has your day been going so far",Greeting
+"Good to see you, what has been new",Greeting
+"Hi, how have things been going",Greeting
+"Hello, how have things been going",Greeting
+"Hey, how have things been going",Greeting
+"Hi, what has been new today",Greeting
+"Hello, what has been new today",Greeting
+"Hey, what has been new today",Greeting
+"Hi, what is going on lately",Greeting
+"Hello, what is going on lately",Greeting
+"Hey, what is going on lately",Greeting
+"Good morning, what has been new",Greeting
+"Good afternoon, what has been new",Greeting
+"Good evening, what has been new",Greeting
+"Hi, how has your morning been today",Greeting
+"Hello, how has your morning been today",Greeting
+"Hey, how has your morning been today",Greeting
+"Hi, how has your afternoon been today",Greeting
+"Hello, how has your afternoon been today",Greeting
+"Hey, how has your afternoon been today",Greeting
+"Hi, how has your evening been today",Greeting
+"Hello, how has your evening been today",Greeting
+"Hey, how has your evening been today",Greeting
+"Good to see you, how is everything",Greeting
+"Hi, how has your week been going",Greeting
+"Hello, how has your week been going",Greeting
+"Hey, how has your week been going",Greeting
+"Hi, what has been happening lately",Greeting
+"Hello, what has been happening lately",Greeting
+"Hey, what has been happening lately",Greeting
+"Hi, how has everything been",Greeting
+"Hello, how has everything been",Greeting
+"Hey, how has everything been",Greeting
+"Good to see you, what is going on",Greeting
+"Hi, how has your day been today",Greeting
+"Hello, how has your day been today",Greeting
+"Hey, how has your day been today",Greeting
+"Hi, what is new today",Greeting
+"Hello, what is new today",Greeting
+"Hey, what is new today",Greeting
+"Good to see you, how are you doing",Greeting
+"Hi, how has your day been",Greeting
+"Hello, how has your day been",Greeting
+"Hey, how has your day been",Greeting
+"Good morning, how have things been",Greeting
+"Good afternoon, how have things been",Greeting
+"Good evening, how have things been",Greeting
+"Hi, what is happening lately",Greeting
+"Hello, what is happening lately",Greeting
+"Hey, what is happening lately",Greeting
+"Hi, how has everything been lately",Greeting
+"Hello, how has everything been lately",Greeting
+"Hey, how has everything been lately",Greeting
+"Hi, what has been going on lately",Greeting
+"Hello, what has been going on lately",Greeting
+"Hey, what has been going on lately",Greeting
+"Hi, how has your day been so far",Greeting
+"Hello, how has your day been so far",Greeting
+"Hey, how has your day been so far",Greeting
+"Good to see you, what has been happening",Greeting
+"Hi, how has your day gone",Greeting
+"Hello, how has your day gone",Greeting
+"Hey, how has your day gone",Greeting
+"Hi, what has been happening today",Greeting
+"Hello, what has been happening today",Greeting
+"Hey, what has been happening today",Greeting
+"Good to see you, how has your week been",Greeting
+"Hi, how has everything been today",Greeting
+"Hello, how has everything been today",Greeting
+"Hey, how has everything been today",Greeting
+"Hi, how has your morning gone",Greeting
+"Hello, how has your morning gone",Greeting
+"Hey, how has your morning gone",Greeting
+"Good morning, how has your day gone",Greeting
+"Good afternoon, how has your day gone",Greeting
+"Good evening, how has your day gone",Greeting
+Whats up,Greeting

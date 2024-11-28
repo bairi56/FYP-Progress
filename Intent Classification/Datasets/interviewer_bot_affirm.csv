@@ -1,0 +1,431 @@
+Sample,Intent
+"Yes, I agree",Affirm
+Yeah,Affirm
+Yep,Affirm
+Right,Affirm
+That is correct,Affirm
+I understand,Affirm
+Absolutely,Affirm
+Agree,Affirm
+Correct,Affirm
+I think so,Affirm
+I believe so,Affirm
+"Yes, that is right",Affirm
+"Yes, I can",Affirm
+"Yes, I will",Affirm
+Of course,Affirm
+Certainly,Affirm
+I agree with that,Affirm
+I am confident,Affirm
+That is right,Affirm
+"Yes, I do",Affirm
+"Yes, I am",Affirm
+"Yes, that is true",Affirm
+I am sure,Affirm
+I think that is correct,Affirm
+"Yes, definitely",Affirm
+"Yes, that is my answer",Affirm
+I can confirm that,Affirm
+That is my understanding,Affirm
+I agree with your statement,Affirm
+"Yes, I can confirm",Affirm
+That sounds correct,Affirm
+I would say yes,Affirm
+"Yes, I have",Affirm
+"Yes, I did",Affirm
+"Yes, it is",Affirm
+"Yes, I am sure",Affirm
+"Yes, I can do that",Affirm
+"Yes, I know",Affirm
+I confirm,Affirm
+"Yes, you are right",Affirm
+I will do that,Affirm
+That is my opinion,Affirm
+I will confirm that,Affirm
+I am in agreement,Affirm
+"Yes, it was",Affirm
+"Yes, it will be",Affirm
+I think that is right,Affirm
+That is my belief,Affirm
+"Yes, that is the case",Affirm
+I will say yes,Affirm
+I am positive,Affirm
+I support that,Affirm
+That is fine,Affirm
+"Yes, I noticed",Affirm
+I will agree,Affirm
+I accept that,Affirm
+"Yes, you are correct",Affirm
+That is correct to me,Affirm
+I will go with that,Affirm
+I am okay with that,Affirm
+"Yes, I understand that",Affirm
+"Yes, that makes sense",Affirm
+"Yes, that is my thought",Affirm
+I approve,Affirm
+"Yes, that is acceptable",Affirm
+"Yes, I noticed that",Affirm
+"Yes, that is fine",Affirm
+I am sure about that,Affirm
+"Yes, that is how it is",Affirm
+"Yes, that is my view",Affirm
+I think that is fine,Affirm
+"Yes, I am comfortable",Affirm
+I agree with the idea,Affirm
+"Yes, I noticed that too",Affirm
+That sounds good,Affirm
+"Yes, that is the way",Affirm
+I think you are right,Affirm
+That is my decision,Affirm
+"Yes, that will work",Affirm
+"Yes, that is the solution",Affirm
+"Yes, I would agree",Affirm
+That is the answer,Affirm
+"Yes, that is my choice",Affirm
+I will say that is right,Affirm
+I feel that is correct,Affirm
+"Yes, I can handle that",Affirm
+"Yes, I did that",Affirm
+I think that is it,Affirm
+"Yes, I will do it",Affirm
+"Yes, that works for me",Affirm
+I support the idea,Affirm
+That is a good point,Affirm
+"Yes, I think you are right",Affirm
+I will agree with that,Affirm
+"Yes, I can see that",Affirm
+"Yes, that makes sense to me",Affirm
+I can support that,Affirm
+"Yes, I have seen that",Affirm
+That is a good idea,Affirm
+"Yes, I have done that",Affirm
+I think that will work,Affirm
+"Yes, I think that is it",Affirm
+I am on board with that,Affirm
+That is a valid point,Affirm
+"Yes, that is acceptable to me",Affirm
+"Yes, I see your point",Affirm
+"Yes, I know what you mean",Affirm
+"Yes, I will agree with you",Affirm
+That is the right approach,Affirm
+I see that as correct,Affirm
+I think that is a good idea,Affirm
+"Yes, that is the way forward",Affirm
+"Yes, that will be fine",Affirm
+"Yes, that is the right choice",Affirm
+I am okay with that decision,Affirm
+That is the way to go,Affirm
+"Yes, that is a good solution",Affirm
+I think you are correct,Affirm
+"Yes, I can work with that",Affirm
+"Yes, that is the right thing to do",Affirm
+I think that is acceptable,Affirm
+That is a good option,Affirm
+I think that will do,Affirm
+"Yes, I am in favor",Affirm
+That seems correct,Affirm
+"Yes, I think so too",Affirm
+That is the right move,Affirm
+I am okay with that choice,Affirm
+"Yes, that fits well",Affirm
+"Yes, I can do that too",Affirm
+"Yes, I see what you are saying",Affirm
+That is the correct approach,Affirm
+"Yes, I would go with that",Affirm
+"Yes, I agree with that statement",Affirm
+"Yes, I have thought about that",Affirm
+"Yes, I would say that is correct",Affirm
+That is the best option,Affirm
+I think that is a good way,Affirm
+I will support that choice,Affirm
+"Yes, I can manage that",Affirm
+"Yes, that is appropriate",Affirm
+"Yes, I will take that step",Affirm
+That is the correct response,Affirm
+"Yes, I think that is the way",Affirm
+"Yes, I can confirm that is true",Affirm
+"Yes, I will support that decision",Affirm
+I will go along with that,Affirm
+"Yes, I have seen that too",Affirm
+"Yes, I agree with your opinion",Affirm
+"Yes, that is the best course",Affirm
+"Yes, that is a good direction",Affirm
+"Yes, that is a sound idea",Affirm
+"Yes, I will accept that",Affirm
+"Yes, I am in agreement with that",Affirm
+"Yes, I am comfortable with that",Affirm
+"Yes, I support that opinion",Affirm
+"Yes, I understand what you mean",Affirm
+"Yes, I think that is valid",Affirm
+"Yes, I would choose that",Affirm
+"Yes, that is the most suitable",Affirm
+"Yes, I believe that is correct",Affirm
+"Yes, I will confirm that",Affirm
+"Yes, that is my response",Affirm
+I think you are right in that,Affirm
+That is the correct view,Affirm
+"Yes, that is how I see it",Affirm
+"Yes, I see it that way too",Affirm
+"Yes, I agree with your view",Affirm
+"Yes, I am okay with that approach",Affirm
+"Yes, I would go for that",Affirm
+"Yes, I think that is reasonable",Affirm
+"Yes, that is acceptable to me",Affirm
+"Yes, I agree with your direction",Affirm
+"Yes, I think that is wise",Affirm
+"Yes, I can follow that",Affirm
+"Yes, that is the right direction",Affirm
+"Yes, that is what I think",Affirm
+"Yes, I would recommend that",Affirm
+"Yes, I am in favor of that",Affirm
+"Yes, that is a wise choice",Affirm
+"Yes, I see it the same way",Affirm
+"Yes, that makes sense to me",Affirm
+"Yes, I think that is the right call",Affirm
+"Yes, that is the correct path",Affirm
+"Yes, I will agree with that plan",Affirm
+"Yes, that is the best approach",Affirm
+"Yes, I support your view",Affirm
+"Yes, I can go with that",Affirm
+"Yes, I would support that",Affirm
+"Yes, I am with you on that",Affirm
+"Yes, that is what I think too",Affirm
+"Yes, I believe that is right",Affirm
+"Yes, that is a good way to go",Affirm
+"Yes, I will agree with that view",Affirm
+"Yes, that is a good point to consider",Affirm
+"Yes, I will follow that advice",Affirm
+"Yes, I think that is a good strategy",Affirm
+"Yes, I can agree with that decision",Affirm
+"Yes, I will take that route",Affirm
+"Yes, that is what I would do",Affirm
+"Yes, that is how I see it too",Affirm
+"Yes, I believe that is the case",Affirm
+"Yes, I can work with that plan",Affirm
+"Yes, that is my conclusion",Affirm
+"Yes, I will take that into account",Affirm
+"Yes, I agree with that perspective",Affirm
+"Yes, I would suggest that too",Affirm
+"Yes, I think that is appropriate",Affirm
+"Yes, that is the right strategy",Affirm
+"Yes, that is the right decision",Affirm
+"Yes, I will go with that idea",Affirm
+"Yes, I will agree to that",Affirm
+"Yes, I believe that is the way",Affirm
+"Yes, I think that is the right step",Affirm
+"Yes, that is a solid choice",Affirm
+"Yes, I agree with that choice",Affirm
+"Yes, I will support that idea",Affirm
+"Yes, I think that is fair",Affirm
+"Yes, I see the value in that",Affirm
+"Yes, that is a good direction to take",Affirm
+"Yes, I will follow that lead",Affirm
+"Yes, that is a reasonable choice",Affirm
+"Yes, I think that is the way to go",Affirm
+"Yes, I can see the benefits in that",Affirm
+"Yes, I am okay with that decision",Affirm
+"Yes, I think that is the right method",Affirm
+"Yes, I will proceed with that",Affirm
+"Yes, I think that is the best choice",Affirm
+"Yeah, that works",Affirm
+"Yup, I got it",Affirm
+"Sure, that is fine",Affirm
+"Yes, absolutely",Affirm
+"Definitely, I agree",Affirm
+Sure thing,Affirm
+"Yeah, that is right",Affirm
+"Yup, I understand",Affirm
+"Sure, I will do that",Affirm
+"Yes, that is correct",Affirm
+"Yeah, sounds good",Affirm
+I can do that,Affirm
+"Yes, that is fine with me",Affirm
+"Yup, I think so too",Affirm
+"Sure, no problem",Affirm
+"Yeah, I can handle that",Affirm
+"Yes, that is okay",Affirm
+"Yes, I am sure",Affirm
+"Yeah, I agree with that",Affirm
+"Yup, I believe so",Affirm
+"Sure, I am on board",Affirm
+"Yes, that is my thought",Affirm
+"Yeah, I think you are right",Affirm
+"Sure, that sounds correct",Affirm
+"Yes, that is my opinion",Affirm
+"Yup, that is right",Affirm
+"Yeah, I am fine with that",Affirm
+"Yes, I can confirm",Affirm
+"Sure, I am okay with that",Affirm
+"Yeah, that is the way",Affirm
+"Yes, I will do that",Affirm
+"Yup, that is my understanding",Affirm
+"Sure, I am confident",Affirm
+"Yeah, that is what I meant",Affirm
+"Yes, I see it that way too",Affirm
+"Sure, I will go with that",Affirm
+"Yeah, that is a good idea",Affirm
+"Yes, I am positive",Affirm
+"Yup, that works for me",Affirm
+"Sure, I support that",Affirm
+"Yeah, I agree with your point",Affirm
+"Yes, I can see that",Affirm
+"Yup, I think that is right",Affirm
+"Sure, I am good with that",Affirm
+"Yeah, that is acceptable",Affirm
+"Yes, that is the plan",Affirm
+"Yup, I am in agreement",Affirm
+"Sure, I will agree with you",Affirm
+"Yeah, I am on board with that",Affirm
+"Yes, that is fine by me",Affirm
+"Yup, I will confirm that",Affirm
+"Sure, that is okay",Affirm
+"Yeah, I am with you on that",Affirm
+"Yes, that makes sense",Affirm
+"Yup, I think that is correct",Affirm
+"Sure, I will agree to that",Affirm
+"Yeah, I will follow that",Affirm
+"Yes, I think that is right",Affirm
+"Yup, I can go with that",Affirm
+"Sure, I agree with that choice",Affirm
+"Yeah, I will say yes to that",Affirm
+"Yes, that is a good choice",Affirm
+"Yup, that sounds good to me",Affirm
+"Sure, I think so",Affirm
+"Yeah, that is true",Affirm
+"Yes, I will support that",Affirm
+"Yup, that is fine with me",Affirm
+"Sure, I am okay with this",Affirm
+"Yeah, that will work",Affirm
+"Yes, I will take that step",Affirm
+"Yup, that is my decision",Affirm
+"Sure, that is the answer",Affirm
+"Yeah, I think you are correct",Affirm
+"Yes, that is the best way",Affirm
+"Yup, I am good with that",Affirm
+"Sure, I see that as correct",Affirm
+"Yeah, I will say that is fine",Affirm
+"Yes, that is what I think",Affirm
+"Yup, I will go with that",Affirm
+"Sure, that is my response",Affirm
+"Yeah, that is how I see it",Affirm
+"Yes, I agree with you",Affirm
+"Yup, I believe that is right",Affirm
+"Sure, that is a good plan",Affirm
+"Yeah, that sounds right",Affirm
+"Yes, I will do it that way",Affirm
+"Yup, I am certain",Affirm
+"Sure, I can work with that",Affirm
+"Yeah, that is what I will do",Affirm
+"Yes, I think you are right",Affirm
+"Yup, I will say yes",Affirm
+"Sure, I am fine with that",Affirm
+"Yeah, I will support this",Affirm
+"Yes, I think that is it",Affirm
+"Yup, that makes sense to me",Affirm
+"Sure, I think that is good",Affirm
+"Yeah, I will go for that",Affirm
+"Yes, I am comfortable with that",Affirm
+"Yup, that is the way to go",Affirm
+"Sure, that is my belief",Affirm
+"Yeah, I see that",Affirm
+"Yes, I can go with that",Affirm
+"Yup, that is the correct way",Affirm
+"Sure, that is my choice",Affirm
+"Yeah, that is a good way",Affirm
+"Yes, I will proceed with that",Affirm
+"Yup, I think that is fine",Affirm
+"Sure, I will agree",Affirm
+"Yeah, I can manage that",Affirm
+"Yes, that will work for me",Affirm
+"Yup, I am okay with this",Affirm
+"Sure, I will go along with that",Affirm
+"Yeah, that is good with me",Affirm
+"Yes, I will confirm that",Affirm
+"Yup, that is my final answer",Affirm
+"Sure, I think that is acceptable",Affirm
+"Yeah, I believe that is right",Affirm
+"Yes, I will accept that",Affirm
+"Yup, that is fine with me",Affirm
+"Sure, that is my thought too",Affirm
+"Yeah, I am okay with that",Affirm
+"Yes, I see that as a good option",Affirm
+"Yup, that sounds good",Affirm
+"Sure, I think that is correct",Affirm
+"Yeah, I can confirm that",Affirm
+"Yes, I will agree with you",Affirm
+"Yup, that is fine by me",Affirm
+"Sure, I will go with that idea",Affirm
+"Yeah, I support that",Affirm
+"Yes, I agree to that",Affirm
+"Yup, that is right for me",Affirm
+"Sure, I think that is good enough",Affirm
+"Yeah, I will follow through",Affirm
+"Yes, I am on board",Affirm
+"Yup, that is the plan",Affirm
+"Sure, that works for me",Affirm
+"Yeah, I can do that too",Affirm
+"Yes, I will go with this",Affirm
+"Yup, I believe you are correct",Affirm
+"Sure, I am okay with that idea",Affirm
+"Yeah, that is my answer",Affirm
+"Yes, I think that is good",Affirm
+"Yup, that is what I would say",Affirm
+"Sure, I agree with your idea",Affirm
+"Yeah, I see that as correct",Affirm
+"Yes, I am okay with that decision",Affirm
+"Yup, I think that is fine with me",Affirm
+"Sure, that is the best option",Affirm
+"Yeah, I am fine with that too",Affirm
+"Yes, I will take that into account",Affirm
+"Yup, that is acceptable to me",Affirm
+"Sure, I believe that is right",Affirm
+"Yeah, that will work out",Affirm
+"Yes, I will confirm that decision",Affirm
+"Yup, I think this is the best",Affirm
+"Sure, I will take that step",Affirm
+"Yeah, I will do that too",Affirm
+"Yes, I think this is correct",Affirm
+"Yup, I will follow that plan",Affirm
+"Sure, I agree with the direction",Affirm
+"Yeah, I think this is good",Affirm
+"Yes, that is how I see it",Affirm
+"Yup, that will be fine",Affirm
+"Sure, I will go with your idea",Affirm
+"Yeah, that is what I think too",Affirm
+"Yes, that sounds acceptable",Affirm
+"Yup, I agree with you",Affirm
+"Sure, I think this is the right move",Affirm
+"Yeah, I see the point",Affirm
+"Yes, I will say yes to that",Affirm
+"Yup, that is the right choice",Affirm
+"Sure, I will support your decision",Affirm
+"Yeah, that is the best way forward",Affirm
+"Yes, I will take your advice",Affirm
+"Yup, that works well",Affirm
+"Sure, I think that is the right path",Affirm
+"Yeah, that is my conclusion",Affirm
+"Yes, I will go with this plan",Affirm
+"Yup, that is acceptable",Affirm
+"Sure, I see this as correct",Affirm
+"Yeah, I will support this idea",Affirm
+"Yes, I think that is good enough",Affirm
+"Yup, I think this is the right call",Affirm
+"Sure, I will say yes to this",Affirm
+"Yeah, I think you are right here",Affirm
+"Yes, I believe this is fine",Affirm
+"Yup, that is what I would do",Affirm
+"Sure, I will go with that approach",Affirm
+"Yeah, I can confirm this",Affirm
+"Yes, I think that is correct",Affirm
+"Yup, I think this is the right way",Affirm
+"Sure, I think this is the answer",Affirm
+"Yeah, I think this will work",Affirm
+"Yes, that is what I believe",Affirm
+"Yup, I agree with your view",Affirm
+"Sure, I will follow that direction",Affirm
+"Yeah, that sounds correct to me",Affirm
+"Yes, I think this is fine",Affirm
+"Yup, that is how I see it too",Affirm
+"Sure, I will support that plan",Affirm
+"Yeah, that is what I would choose",Affirm
+I am sure,Affirm
