@@ -1,0 +1,495 @@
+Sentence,Labels
+I have two years of experience working with machine learning models.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill
+My experience spans three years in developing AI solutions.,O O O B-Years I-Years O B-Skill I-Skill I-Skill
+I have been working in machine learning for about four years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have around five years of experience in data science and machine learning.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill
+I worked on machine learning projects for about two and a half years.,O O O B-Skill I-Skill I-Skill O O B-Years I-Years I-Years I-Years I-Years
+I have been in the field of machine learning for the past six years.,O O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have over three years of experience developing machine learning algorithms.,O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill
+I started working with machine learning about one year ago.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have six months of experience in the machine learning industry.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill
+I have worked on various machine learning tasks for the last three years.,O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+My journey in machine learning began two years ago.,O O O B-Skill I-Skill O B-Years I-Years O
+I have a solid four years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+I have spent the last five years working with machine learning.,O O O O O B-Years I-Years O O B-Skill I-Skill
+I have been involved in machine learning for almost two years now.,O O O O O B-Skill I-Skill O O B-Years I-Years O
+I have been handling machine learning models for five years.,O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+My experience with machine learning goes back three years.,O O O B-Skill I-Skill O O B-Years I-Years
+I have been applying machine learning techniques for approximately four years.,O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I gained three years of machine learning experience while working at my previous job.,O O B-Years I-Years O B-Skill I-Skill O O O O O O O
+I have been working with machine learning for four years.,O O O O O B-Skill I-Skill O B-Years I-Years
+I have been actively involved in machine learning for the last five years.,O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have a total of three years of machine learning experience.,O O O O O B-Years I-Years O B-Skill I-Skill O
+I have spent the last two years honing my machine learning skills.,O O O O O B-Years I-Years O O B-Skill I-Skill O
+I have a year and a half of experience in the field of machine learning.,O O B-Years I-Years I-Years I-Years I-Years O O O O O O B-Skill I-Skill
+I have developed machine learning models for the past two years.,O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+My career in machine learning began about three years ago.,O O O B-Skill I-Skill O O B-Years I-Years O
+I have a background of two years in machine learning.,O O O O O B-Years I-Years O B-Skill I-Skill
+I have been working with machine learning models for four and a half years.,O O O O O B-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have been engaged in machine learning for three years.,O O O O O B-Skill I-Skill O B-Years I-Years
+My experience in machine learning stretches to five years.,O O O B-Skill I-Skill O O B-Years I-Years
+I have accumulated two years of experience in machine learning.,O O O B-Years I-Years O O O B-Skill I-Skill
+I have six years of machine learning expertise.,O O B-Years I-Years O B-Skill I-Skill O
+I have been working with machine learning algorithms for almost two years.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have four years of professional experience in machine learning.,O O B-Years I-Years O O O O B-Skill I-Skill
+I started my journey in machine learning three years ago.,O O O O B-Skill I-Skill B-Years I-Years O
+I have about five years of experience working in the machine learning domain.,O O O B-Years I-Years O O O O O B-Skill I-Skill I-Skill
+I have worked with machine learning for nearly three years.,O O O O B-Skill I-Skill O O B-Years I-Years
+I have been developing machine learning solutions for the last four years.,O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have a solid five years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+My experience in the machine learning field totals two years.,O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+I have been in machine learning for around four years.,O O O O B-Skill I-Skill O O B-Years I-Years
+I have worked with machine learning technologies for two years.,O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+"I have extensive experience, about three years, in machine learning.",O O O O O B-Years I-Years O B-Skill I-Skill
+I have been involved in machine learning projects for five years.,O O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+I have been using machine learning for two and a half years.,O O O O B-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I started working in machine learning around four years ago.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have been applying machine learning in my work for the past three years.,O O O O B-Skill I-Skill O O O O O O B-Years I-Years
+I have a total of two years of experience in machine learning.,O O O O O B-Years I-Years O O O B-Skill I-Skill
+I have worked with machine learning algorithms for over four years.,O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have worked in machine learning for almost three years.,O O O O B-Skill I-Skill O O B-Years I-Years
+I have five years of experience in the machine learning field.,O O B-Years I-Years O O O O B-Skill I-Skill O
+I have been working in machine learning for just over three years now.,O O O O O B-Skill I-Skill O O O B-Years I-Years O
+I started my machine learning career four years ago.,O O O B-Skill I-Skill O B-Years I-Years O
+I have got two years of hands on experience in machine learning.,O O O B-Years I-Years O O O O O B-Skill I-Skill
+I have around three and a half years of machine learning experience.,O O O B-Years I-Years I-Years I-Years I-Years O B-Skill I-Skill O
+My machine learning experience totals about four years.,O B-Skill I-Skill O O O B-Years I-Years
+I have been working on machine learning projects for over five years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I started working with AI and machine learning five years ago.,O O O O I-Skill I-Skill I-Skill I-Skill B-Years I-Years O
+My experience in the machine learning field is approximately two years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been involved in machine learning research for almost four years.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have been using machine learning in my work for about two and a half years.,O O O O B-Skill I-Skill O O O O O B-Years I-Years I-Years I-Years I-Years
+I have more than five years of experience in machine learning and AI.,O O O O B-Years I-Years O O O I-Skill I-Skill I-Skill I-Skill
+I have been practicing machine learning for about three years now.,O O O O B-Skill I-Skill O O B-Years I-Years O
+My experience with machine learning spans five years.,O O O B-Skill I-Skill O B-Years I-Years
+I have been a machine learning engineer for about two years.,O O O O B-Designation I-Designation I-Designation O O B-Years I-Years
+I have been involved in machine learning projects for four years now.,O O O O O B-Skill I-Skill O O B-Years I-Years O
+I have got a solid four years of machine learning experience under my belt.,O O O O O B-Years I-Years O B-Skill I-Skill O O O O
+I have spent the past five years building machine learning systems.,O O O O O B-Years I-Years O B-Skill I-Skill O
+I have been working on machine learning for the last two years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have about four years of professional experience in machine learning.,O O O B-Years I-Years O O O O B-Skill I-Skill
+My experience with machine learning is over two years.,O O O B-Skill I-Skill O O B-Years I-Years
+I have been in machine learning for roughly three and a half years.,O O O O B-Skill I-Skill O O B-Years I-Years I-Years I-Years I-Years
+I have about two years of practical experience in machine learning.,O O O B-Years I-Years O O O O B-Skill I-Skill
+I have worked in the field of machine learning for more than five years.,O O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have worked on machine learning projects for approximately four years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been part of machine learning teams for around two years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+My machine learning experience adds up to three years.,O B-Skill I-Skill O O O O B-Years I-Years
+I have gained around three years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+I have five years of experience in building machine learning models.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill
+I have worked with machine learning tools and techniques for the past three years.,O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have been doing machine learning for about two and a half years.,O O O O B-Skill I-Skill O O B-Years I-Years I-Years I-Years I-Years
+I have been developing machine learning applications for nearly four years.,O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been in machine learning for six years now.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have nearly five years of experience in machine learning.,O O O B-Years I-Years O O O B-Skill I-Skill
+I have spent around four years working with machine learning algorithms.,O O O O B-Years I-Years O O B-Skill I-Skill I-Skill
+I have been working in the machine learning field for the past two years.,O O O O O O B-Skill I-Skill O O O O B-Years I-Years
+I have been applying machine learning techniques for almost three years.,O O O O O O O O O B-Years I-Years
+I have been working as a machine learning specialist for about four years.,O O O O O O B-Designation I-Designation I-Designation O O B-Years I-Years
+I have gained two years of experience working with machine learning systems.,O O O B-Years I-Years O O O O B-Skill I-Skill O
+I have been handling machine learning tasks for roughly three years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+My experience with machine learning goes back nearly five years.,O O O B-Skill I-Skill O O O B-Years I-Years
+I have been a machine learning researcher for the last two years.,O O O O B-Designation I-Designation I-Designation O O O B-Years I-Years
+I have been working on machine learning problems for four years now.,O O O O O B-Skill I-Skill O O B-Years I-Years O
+My professional experience with machine learning spans five years.,O O O O B-Skill I-Skill O B-Years I-Years
+I have got three years of experience in deploying machine learning models.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill
+I have been solving machine learning challenges for nearly four years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+I have spent the past two years working in the machine learning industry.,O O O O O B-Years I-Years O O O B-Skill I-Skill O
+I have been involved in machine learning research and development for five years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O B-Years I-Years
+"I have around four years of machine learning experience, mostly in AI.",O O O B-Years I-Years O B-Skill I-Skill O O O B-Skill
+I have been working in the field of machine learning for almost two years.,O O O O O O O O B-Skill I-Skill O O B-Years I-Years
+I have six years of experience in applying machine learning to real-world problems.,O O B-Years I-Years O O O O B-Skill I-Skill O O O
+I have been designing machine learning models for about three years.,O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been working with machine learning models for two years now.,O O O O O O B-Skill I-Skill I-Skill O B-Years I-Years O
+I have accumulated nearly four years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+I have been involved in machine learning projects for about two and a half years.,O O O O O B-Skill I-Skill O O O B-Years I-Years I-Years I-Years I-Years
+I started working in machine learning around six years ago.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have about two years of experience building machine learning models.,O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill
+I have been working on machine learning problems for the last five years.,O O O O O B-Skill I-Skill O O O O B-Years I-Years
+I have worked in machine learning for over two years.,O O O O B-Skill I-Skill O O B-Years I-Years
+My machine learning experience began three years ago.,O B-Skill I-Skill O O B-Years I-Years O
+I have been working with machine learning frameworks for the past four years.,O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have four and a half years of experience in machine learning.,O O B-Years I-Years I-Years I-Years I-Years O B-Skill I-Skill
+I have been involved in machine learning tasks for three years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have been actively working with machine learning systems for about four years.,O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been doing machine learning research for almost five years.,O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have been working on machine learning models for two and a half years.,O O O O O B-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have five years of machine learning experience in multiple projects.,O O B-Years I-Years O B-Skill I-Skill O O O O
+I have been working with machine learning for just over three years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been involved in developing machine learning algorithms for about four years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been in the field of machine learning for three and a half years now.,O O O O O O O B-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years O
+I have been applying machine learning in my projects for around five years.,O O O O B-Skill I-Skill O O O O O B-Years I-Years
+I have been focused on machine learning for the past two years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been working with machine learning for about six years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have been working on machine learning algorithms for around three years.,O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have been involved in machine learning development for over four years now.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O
+I have been using machine learning in production for two years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+"I have gained significant experience in machine learning, almost five years.",O O O O O O B-Skill I-Skill O B-Years I-Years
+I have been working on machine learning models for around two and a half years.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years I-Years I-Years I-Years
+I have been actively involved in machine learning for the past four years.,O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I started working in machine learning around five years ago.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have got nearly three years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+I have been handling machine learning projects for about two years now.,O O O O B-Skill I-Skill O O O B-Years I-Years O
+I have close to five years of experience in machine learning model development.,O O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill
+I have spent the last three years working on machine learning frameworks.,O O O O O B-Years I-Years O O B-Skill I-Skill I-Skill
+I have been part of machine learning projects for nearly six years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been working with machine learning technologies for just over two years.,O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have got two years of machine learning experience from my previous job.,O O O B-Years I-Years O B-Skill I-Skill O O O O O
+I have been working in machine learning for five years and counting.,O O O O O B-Skill I-Skill O B-Years I-Years O O
+I have developed machine learning models for three and a half years.,O O O B-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have worked on machine learning problems for nearly two years now.,O O O O B-Skill I-Skill O O O B-Years I-Years O
+I have been in machine learning for more than four years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been developing machine learning systems for the last five years.,O O O B-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have been using machine learning to solve real-world problems for two years.,O O O O B-Skill I-Skill O O O O O B-Years I-Years
+I have been developing machine learning algorithms for almost five years now.,O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years O
+I have worked with machine learning tools for three years.,O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+I have gained a lot of experience in machine learning over the past four years.,O O O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been developing machine learning solutions for about three and a half years.,O O O B-Skill I-Skill I-Skill O O O B-Years I-Years I-Years I-Years I-Years
+I have been working on AI and machine learning for the past two years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have worked in machine learning and AI for almost five years.,O O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have got over four years of experience in machine learning projects.,O O O O B-Years I-Years O O O B-Skill I-Skill O
+I have been working in machine learning model deployment for two years.,O O O O O B-Skill I-Skill I-Skill I-Skill O B-Years I-Years
+I have been solving machine learning challenges for nearly five years.,O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been in the machine learning field for almost six years now.,O O O O O B-Skill I-Skill O O B-Years I-Years O
+I have worked as a machine learning engineer for four years.,O O O O O B-Designation I-Designation I-Designation O B-Years I-Years
+I started working on machine learning problems five years ago.,O O O O B-Skill I-Skill O B-Years I-Years O
+I have been developing machine learning models for about three years.,O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have gained more than two years of experience in machine learning.,O O O O O B-Years I-Years O O O B-Skill I-Skill
+I have been using machine learning in production systems for about five years.,O O O O B-Skill I-Skill O O O O O B-Years I-Years
+I have spent the past two years developing machine learning solutions.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill
+I have four years of hands-on experience in machine learning projects.,O O B-Years I-Years O O O O B-Skill I-Skill O
+I have been working in the machine learning industry for close to six years.,O O O O O O B-Skill I-Skill O O O O B-Years I-Years
+My experience in machine learning dates back about two and a half years.,O O O B-Skill I-Skill O O O B-Years I-Years I-Years I-Years I-Years
+I have been working with AI and machine learning for over five years.,O O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been involved in machine learning research and development for three years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O B-Years I-Years
+I have more than two years of machine learning experience.,O O O O B-Years I-Years O B-Skill I-Skill O
+I have been a part of machine learning projects for nearly five years now.,O O O O O O B-Skill I-Skill O O O B-Years I-Years O
+I have spent over four years developing machine learning algorithms.,O O O O B-Years I-Years O B-Skill I-Skill I-Skill
+I have about two years of experience working with machine learning models.,O O O B-Years I-Years O O O O B-Skill I-Skill I-Skill
+I have been working in the machine learning domain for approximately six years.,O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have developed machine learning solutions for the past three years.,O O B-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have been using machine learning techniques in my work for four years.,O O O O B-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have been working in machine learning for nearly three years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have been working on machine learning tasks for about two and a half years.,O O O O O B-Skill I-Skill O O O B-Years I-Years I-Years I-Years I-Years
+I have worked with machine learning models for more than five years.,O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have gained four years of experience in building machine learning applications.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill
+I have been involved in machine learning tasks for over three years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been in the field of machine learning for close to two years.,O O O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have spent six years working in the machine learning industry.,O O O B-Years I-Years O O O B-Skill I-Skill O
+I have been a machine learning engineer for the last three years.,O O O O B-Designation I-Designation I-Designation O O O B-Years I-Years
+I have four years of professional experience with machine learning.,O O B-Years I-Years O O O O B-Skill I-Skill
+I have spent over two years researching machine learning algorithms.,O O O O B-Years I-Years O B-Skill I-Skill I-Skill
+I have been working on machine learning for nearly five years now.,O O O O O B-Skill I-Skill O O B-Years I-Years O
+I have gained experience in machine learning projects over the last three years.,O O O O O B-Skill I-Skill O O O O B-Years I-Years
+I have been developing and deploying machine learning systems for about five years.,O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O B-Years I-Years
+I have spent more than two years working with machine learning pipelines.,O O O O O B-Years I-Years O O B-Skill I-Skill I-Skill
+I have been working on machine learning models for almost six years now.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O
+I have about two and a half years of experience in machine learning applications.,O O O B-Years I-Years I-Years I-Years I-Years O O B-Skill I-Skill I-Skill
+I have been working with machine learning tools for close to four years.,O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have been involved in machine learning research for nearly five years.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+I have been in the field of machine learning for three years now.,O O O O O O O B-Skill I-Skill O B-Years I-Years O
+I have spent more than two years working on machine learning projects.,O O O O O B-Years I-Years O O B-Skill I-Skill O
+I have gained around four years of experience in machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill
+I have been using machine learning algorithms in my projects for five years.,O O O O B-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have been working in machine learning for close to three years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been working on machine learning models for two and a half years now.,O O O O O B-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years O
+I have been applying machine learning techniques for about five years.,O O O O O B-Skill I-Skill I-Skill O B-Years I-Years
+I have been working in machine learning for roughly four years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have two and a half years of experience with machine learning models.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill I-Skill
+I have spent over three years building machine learning solutions.,O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill
+I have been involved in machine learning tasks for almost six years.,O O O O O B-Skill I-Skill O O O B-Years I-Years
+I have been working with machine learning frameworks for over two years.,O O O O O B-Skill I-Skill O O B-Years I-Years
+I have been a machine learning practitioner for more than four years.,O O O O B-Designation I-Designation I-Designation O O O B-Years I-Years
+"I have been working in machine learning, particularly in deep learning, for about three years.",O O O O O B-Skill I-Skill O O B-Skill I-Skill O O B-Years I-Years
+I have around four years of experience in computer vision applications using machine learning.,O O O B-Years I-Years O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been involved in NLP and machine learning projects for the last two and a half years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years I-Years I-Years I-Years
+I have been working with deep learning models for nearly five years now.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O
+I have about three years of experience in reinforcement learning within the machine learning space.,O O O B-Years I-Years O O O B-Skill I-Skill O O B-Skill I-Skill I-Skill
+I have been developing machine learning algorithms for predictive analytics for over two years.,O O O B-Skill I-Skill I-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years
+"My machine learning experience spans about four years, mainly in computer vision tasks.",O B-Skill I-Skill O O O B-Years I-Years O O B-Skill I-Skill O
+I have been working on natural language processing and machine learning for almost two years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been working with deep learning and neural networks for more than four years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have about three years of experience applying machine learning to computer vision problems.,O O O B-Years I-Years O O O B-Skill I-Skill O B-Skill I-Skill O
+I have been involved in deep learning research for almost five years now.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O
+I have worked with reinforcement learning techniques for the past two years.,O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have been developing models for natural language processing for the past three years.,O O O B-Skill I-Skill O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have spent nearly four years working on computer vision and image recognition using machine learning.,O O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been applying machine learning in deep learning projects for about five years.,O O O O B-Skill I-Skill B-Skill I-Skill I-Skill O O B-Years I-Years
+I have around two and a half years of experience working on NLP tasks with machine learning.,O O O B-Years I-Years I-Years I-Years I-Years O O O O B-Skill O O B-Skill I-Skill
+I have been working on reinforcement learning algorithms for nearly four years.,O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years
+My work has been focused on machine learning for image processing for about three years.,O O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been using deep learning techniques within machine learning for over five years now.,O O O O B-Skill I-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years O
+I have about two years of experience in using machine learning for text classification tasks.,O O O B-Years I-Years O O O O B-Skill I-Skill O B-Skill I-Skill O
+I have worked with neural networks and machine learning for nearly five years.,O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+"I have been in the machine learning domain for around four years, primarily in natural language processing.",O O O O O B-Skill I-Skill O O O B-Years I-Years O O B-Skill I-Skill I-Skill
+I have been focusing on reinforcement learning for machine learning applications for three years.,O O O O O B-Skill I-Skill O B-Skill I-Skill I-Skill O B-Years I-Years
+I have spent about five years working on deep learning projects in the machine learning field.,O O O O B-Years I-Years O O B-Skill I-Skill O O O B-Skill I-Skill O
+I have close to two years of experience in computer vision using machine learning.,O O O O B-Years I-Years O O O B-Skill I-Skill I-Skill B-Skill I-Skill
+I have been developing machine learning models for speech recognition tasks for nearly four years.,O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have three and a half years of experience in computer vision and machine learning.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill
+I have been using machine learning in image processing applications for the last five years.,O O O O B-Skill I-Skill B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have spent almost two and a half years working with machine learning in natural language processing.,O O O O B-Years I-Years I-Years I-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been involved in machine learning for self-driving car projects for the past three years.,O O O O O O O O O O O O O O B-Years I-Years
+I have about five years of experience applying machine learning to deep learning projects.,O O O B-Years I-Years O O O B-Skill I-Skill B-Skill I-Skill I-Skill O
+I have been working with reinforcement learning models for machine learning for about two years.,O O O O O B-Skill I-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years
+I have been developing machine learning models for predictive maintenance for nearly four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have two and a half years of experience in applying machine learning to natural language tasks.,O O B-Years I-Years I-Years I-Years I-Years O O O O O B-Skill I-Skill I-Skill I-Skill O
+I have spent about three years working on machine learning models for healthcare applications.,O O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been applying deep learning to machine learning projects for more than five years.,O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have three years of experience in developing machine learning algorithms for robotics.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+"I have been working in the field of machine learning, specifically computer vision, for around four years.",O O O O O O O O B-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years
+I have been involved in machine learning for recommendation systems for over two years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+"I have about five years of experience in deep learning, focusing on machine learning models.",O O O B-Years I-Years O O O B-Skill I-Skill O O B-Skill I-Skill I-Skill
+I have spent around three years applying machine learning to time series forecasting.,O O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill
+I have been working on reinforcement learning projects in machine learning for almost three years.,O O O O O B-Skill I-Skill O O B-Skill I-Skill O O B-Years I-Years
+I have about two years of experience in applying machine learning to speech processing.,O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill
+I have been working on natural language understanding with machine learning for the past four years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years O
+I have four years of experience in using machine learning for data-driven predictive models.,O O B-Years I-Years O O O O B-Skill I-Skill O O O O
+I have been developing deep learning models for various machine learning tasks for about five years.,O O O B-Skill I-Skill I-Skill I-Skill O O B-Skill I-Skill O O O B-Years I-Years
+I have been working on object detection using machine learning for nearly two and a half years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years I-Years I-Years I-Years
+I have spent about four years developing machine learning algorithms for fraud detection.,O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O
+I have three years of experience in reinforcement learning within the machine learning space.,O O B-Years I-Years O O O B-Skill I-Skill O O B-Skill I-Skill I-Skill
+I have worked with natural language models and machine learning for more than two years now.,O O O O B-Skill I-Skill I-Skill B-Skill I-Skill I-Skill O O O B-Years I-Years O
+I have been developing machine learning models for CV-related projects for nearly four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+"I have been in the field of machine learning for around four years, primarily focusing on model deployment.",O O O O O O O B-Skill I-Skill O O B-Years I-Years O O O B-Skill I-Skill
+"I have worked on machine learning for more than three years, specializing in recommendation systems.",O O O O B-Skill I-Skill O O O B-Years I-Years O O O O
+"I have been part of several machine learning projects in the last two years, mostly in the e-commerce domain.",O O O O O O B-Skill I-Skill O O O O B-Years I-Years O O O O
+"I have been in the machine learning space for about five years, working on data-driven product development.",O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O O B-Skill I-Skill I-Skill
+"I have been developing machine learning models for over four years, primarily in fraud detection.",O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years O O O O
+I have about two years of experience in deploying machine learning models to production.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O
+"I have spent the last three years building machine learning models, specifically for finance applications.",O O O O O B-Years I-Years O B-Skill I-Skill I-Skill O O O O
+I have worked with machine learning models for two and a half years in the retail industry.,O O O O B-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years O O O O
+I have been working on machine learning-based customer segmentation for the past four years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years
+I have three years of experience in building and deploying machine learning pipelines.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been developing machine learning algorithms for recommendation engines for over two years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+"I have been working in the field of machine learning for about four years now, focusing on NLP.",O O O O O O O O B-Skill I-Skill O O B-Years I-Years O O O B-Skill
+I have nearly five years of experience working on machine learning for time series forecasting.,O O O B-Years I-Years O O O O B-Skill I-Skill O B-Skill I-Skill I-Skill
+"I have been a part of several machine learning projects over the last two years, mainly in healthcare.",O O O O O O O B-Skill I-Skill O O O O B-Years I-Years O O O
+I have been building machine learning models for insurance companies for about three and a half years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years I-Years I-Years I-Years
+"I have been working in machine learning for over five years, specializing in optimization problems.",O O O O O B-Skill I-Skill O O B-Years I-Years O O O O
+I have two years of experience in implementing machine learning algorithms in marketing.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O
+I have been building machine learning systems in the automotive industry for nearly four years now.,O O O O B-Skill I-Skill O O O O O O O B-Years I-Years O
+I have around two and a half years of experience in building machine learning solutions for startups.,O O O B-Years I-Years I-Years I-Years I-Years O O O O B-Skill I-Skill I-Skill O O
+I have been applying machine learning techniques in cybersecurity projects for about four years.,O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+"I have been involved in machine learning research for approximately three years, focusing on GANs.",O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O O O
+I have spent over two years working on reinforcement learning in real-time applications.,O O O O B-Years I-Years O O B-Skill I-Skill O O O
+"I have been in the field of machine learning for about five years, with a focus on predictive modeling.",O O O O O O O B-Skill I-Skill O O B-Years I-Years O O O O O O
+I have been developing machine learning solutions for logistics companies for the last three years.,O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have been working with AI and machine learning in social media platforms for about four years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have about three years of experience in natural language processing and machine learning.,O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have spent four years developing machine learning algorithms for anomaly detection.,O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O
+I have two years of experience building and tuning machine learning models for energy consumption.,O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O O
+I have worked on machine learning models for healthcare data analysis for almost three years now.,O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years O
+I have been developing machine learning models for mobile applications for about four and a half years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years I-Years I-Years I-Years
+I have about three years of experience in working with unsupervised machine learning algorithms.,O O O B-Years I-Years O O O O O B-Skill I-Skill I-Skill I-Skill
+I have been developing machine learning models for customer retention strategies for the past two years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have spent nearly four years building machine learning systems for the banking industry.,O O O O B-Years I-Years B-Skill I-Skill I-Skill O O O O O
+I have two and a half years of experience in training machine learning models for speech recognition.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+I have been working on various machine learning projects for nearly five years now.,O O O O O O B-Skill I-Skill O O O B-Years I-Years O
+"I have been in the machine learning domain for about three years, mainly in sentiment analysis.",O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O O O O
+I have been working with machine learning algorithms for image processing for over two years.,O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have been involved in developing machine learning models for natural disaster prediction for three years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have been working on AI-based solutions using machine learning for nearly five years.,O O O O O O O O O B-Skill I-Skill O O B-Years I-Years
+I have four years of experience working on personalization systems using machine learning.,O O B-Years I-Years O O O O O O O B-Skill I-Skill
+"I have been working in the machine learning field for close to three years, mostly in predictive analytics.",O O O O O O B-Skill I-Skill O O O B-Years I-Years O O O O
+I have been applying machine learning models for risk management for about four years.,O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have two years of experience building machine learning models for personalization engines.,O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill O O O O O
+"I have been a machine learning practitioner for nearly four years, focusing on optimization.",O O O O I-Designation I-Designation I-Designation O O B-Years I-Years O O O
+I have been working with machine learning in finance for three and a half years.,O O O O O B-Skill I-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have spent around four years building machine learning models for retail analytics.,O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O
+I have been developing machine learning models for natural language generation for about two years.,O O O O B-Skill I-Skill I-Skill O B-Skill I-Skill I-Skill O O B-Years I-Years
+"I have been involved in AI and machine learning for over four years, primarily in the healthcare domain.",O O O O O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years O O O O O
+I have three years of experience in developing machine learning models for logistics optimization.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+"I have been in the machine learning field for two years, working on predictive modeling.",O O O O O B-Skill I-Skill O O B-Years I-Years O O O O
+I have been working on deep learning models in the healthcare domain for about three years now.,O O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years O
+I have spent the last four years building machine learning models for fraud detection in fintech.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O O O
+"I have two and a half years of experience in computer vision projects, mainly in image classification.",O O B-Years I-Years I-Years I-Years I-Years O O B-Skill I-Skill O O O O B-Skill I-Skill
+"I have been working with machine learning and data analytics for about five years, focusing on automation.",O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years O O O
+I have three years of experience building machine learning solutions for customer behavior prediction.,O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill O O O O
+I have worked with reinforcement learning algorithms for the past two years in robotics applications.,O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years O O O
+I have been involved in developing machine learning models for facial recognition for over two years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have been building machine learning pipelines in cloud environments for about three years now.,O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years O
+I have worked on natural language processing projects in the retail industry for about two and a half years.,O O O O B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years I-Years I-Years I-Years
+"I have been a machine learning engineer for the past four years, working mostly on chatbots and NLP systems.",O O O O I-Designation I-Designation I-Designation O O O B-Years I-Years O O O O O B-Skill O
+I have around three years of experience in time series analysis using machine learning algorithms.,O O O B-Years I-Years O O O O O O O B-Skill I-Skill I-Skill
+I have spent the last four years working on machine learning applications in autonomous vehicles.,O O O O O B-Years I-Years O O O B-Skill I-Skill I-Skill O O O
+I have been building machine learning systems for smart city initiatives for the past two years.,O O O B-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have worked on machine learning in the financial sector for almost three and a half years.,O O O O B-Skill I-Skill O O O O O O B-Years I-Years I-Years I-Years I-Years
+I have been involved in developing AI-driven machine learning models for over three years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been working with AI and machine learning technologies for about five years in industrial automation.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O B-Years I-Years O O O
+I have three years of experience building machine learning solutions for text-to-speech applications.,O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill O O O
+I have been part of multiple machine learning projects for voice recognition systems over the last two years.,O O O O O O B-Skill I-Skill O O O O O O O B-Years I-Years
+"I have been working in machine learning research for approximately four years, specializing in unsupervised learning.",O O O O O B-Skill I-Skill I-Skill O O B-Years I-Years O O B-Skill I-Skill
+I have about three and a half years of experience in machine learning for predictive maintenance.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill O O O
+I have been working on real-time machine learning systems for cybersecurity for nearly five years.,O O O O O B-Skill I-Skill O O O B-Skill O O B-Years I-Years
+I have two years of experience in applying machine learning algorithms for stock market predictions.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O
+I have spent the last three years developing machine learning algorithms for fraud detection in banking.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O O O
+I have been working with reinforcement learning models in game development for about four years.,O O O O O B-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years
+I have been building machine learning models for anomaly detection in sensor data for three years now.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years O
+I have almost four years of experience in natural language processing for voice assistants.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+I have been working on recommendation systems using machine learning for two and a half years.,O O O O O O O O B-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have over four years of experience building deep learning models for medical image processing.,O O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill O O O O
+I have been working on machine learning algorithms for supply chain optimization for about three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have been developing machine learning based AI solutions for automotive companies for the last four years.,O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have two years of experience in building machine learning systems for video processing.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill O O O O
+I have been applying machine learning to predictive analytics in sports for nearly three years now.,O O O O B-Skill I-Skill O O O O O O B-Years I-Years O
+I have been involved in machine learning research in the field of computational biology for three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have almost four years of experience working on machine learning algorithms for customer segmentation.,O O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O
+I have spent the last two and a half years building machine learning models for natural language understanding.,O O O O B-Years I-Years I-Years I-Years I-Years O B-Skill I-Skill I-Skill O B-Skill I-Skill I-Skill
+I have three years of experience in developing machine learning based forecasting tools.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have been building machine learning solutions for marketing and personalization for about five years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have been working on AI-powered recommendation systems for e-commerce for nearly four years now.,O O O O O O O O O O O O B-Years I-Years O
+I have about two years of experience in applying machine learning to sentiment analysis tasks.,O O O B-Years I-Years O O O O B-Skill I-Skill O O O O
+"I have been working with convolutional neural networks, CNNs for image classification for over four years.",O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have spent nearly three years building machine learning solutions for healthcare diagnostics.,O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O
+I have four and a half years of experience in developing machine learning models for supply chain analytics.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill I-Skill O O O O
+I have been developing unsupervised machine learning models for customer churn prediction for three years.,O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have around three years of experience in building reinforcement learning models for robotics.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O
+I have been working with machine learning algorithms for speech recognition systems for the past two years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have five years of experience building machine learning models for time series forecasting.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill O B-Skill I-Skill I-Skill
+"I have been involved in several machine learning projects, focusing on data mining for four years.",O O O O O O B-Skill I-Skill O O B-Skill I-Skill O O B-Years I-Years
+I have been building machine learning models for fraud detection in financial institutions for three years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have been developing machine learning algorithms for customer segmentation for two and a half years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years I-Years I-Years I-Years
+I have three years of experience working on machine learning solutions for virtual assistants.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O
+"I have been working in the machine learning field for about four years, specializing in data augmentation.",O O O O O O B-Skill I-Skill O O O B-Years I-Years O O O O
+"I have about three years of experience working on deep learning models, particularly in image classification.",O O O B-Years I-Years O O O B-Skill I-Skill I-Skill O O B-Skill I-Skill
+"I have been involved in machine learning research for four years, focusing mainly on reinforcement learning.",O O O O O B-Skill I-Skill I-Skill O B-Years I-Years O O O B-Skill I-Skill
+"I have worked with NLP models for the last two years, developing text summarization systems.",O O O O B-Skill I-Skill O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill
+I have been working on predictive analytics and machine learning models for the last five years in e-commerce.,O O O O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years O O
+I have spent three years developing machine learning models for real-time analytics in the IoT sector.,O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O O O O O O
+I have been working on machine learning models for sentiment analysis and customer feedback for nearly four years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have two and a half years of experience applying machine learning to automated trading systems in finance.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill O O O O O O
+"For the past three years, I have been working on machine learning projects, mainly in natural language processing.",O O O B-Years I-Years O O O O O B-Skill I-Skill O O O B-Skill I-Skill I-Skill
+I have been building computer vision models in the automotive industry for the last four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have worked on reinforcement learning algorithms for game AI for two and a half years.,O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O B-Years I-Years I-Years I-Years I-Years
+I have three years of experience building machine learning models for credit risk analysis.,O O B-Years I-Years O O B-Skill I-Skill I-Skill I-Skill O O O O
+I have been involved in the development of machine learning models for fraud detection for four years.,O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have spent the last five years working on recommendation engines using machine learning in e-commerce.,O O O O O B-Years I-Years O O O O O B-Skill I-Skill O O
+I have worked on predictive modeling and machine learning algorithms in healthcare for about two years.,O O O O O O B-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have nearly four years of experience in time series forecasting using machine learning.,O O O B-Years I-Years O O O O O O O O O
+I have been developing machine learning models for supply chain optimization for the last three years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have about two years of experience building NLP systems for chatbots and virtual assistants.,O O O B-Years I-Years O O B-Skill I-Skill O O O O O O
+I have been working on deep learning applications in medical imaging for nearly three years.,O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have over four years of experience applying machine learning to speech recognition.,O O O B-Years I-Years O O O B-Skill I-Skill O O O
+I have been part of several projects where I developed machine learning models for churn prediction for three years.,O O O O O O O O O B-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years
+I have spent the last four years building AI-powered automation systems using machine learning techniques.,O O O O O B-Years I-Years B-Skill I-Skill O O O B-Skill I-Skill I-Skill
+I have two years of experience working on machine learning solutions for industrial automation.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O
+I have been working with machine learning models for real-time video analytics for nearly three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have worked on neural network models for text classification tasks for around four years.,O O O O B-Skill I-Skill I-Skill O B-Skill I-Skill O O B-Years I-Years
+I have spent the last two years developing machine learning systems for personalized marketing.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill O O O O
+"I have three years of experience in machine learning, focusing on anomaly detection in cybersecurity.",O O B-Years I-Years O O O B-Skill I-Skill O O O O O O
+I have been working on computer vision models for surveillance systems for about four years.,O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have around three years of experience in developing machine learning based tools for predictive maintenance.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O
+I have been involved in developing machine learning models for fraud detection in banking for two and a half years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years I-Years I-Years I-Years
+I have worked on time series analysis and machine learning models for energy usage optimization for four years.,O O O O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have three years of experience working on AI-based natural language understanding systems.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill I-Skill O
+I have been building machine learning models for sales forecasting in retail for over four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have two and a half years of experience applying machine learning to customer behavior analysis.,O O B-Years I-Years I-Years I-Years I-Years O O O B-Skill I-Skill O O O O
+I have been involved in machine learning research in the field of healthcare analytics for three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have about four years of experience in building deep learning models for object detection.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+I have worked with unsupervised learning algorithms for data clustering for the last two and a half years.,O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years I-Years I-Years I-Years
+I have spent three years developing AI-powered recommendation systems for media platforms.,O O O B-Years I-Years B-Skill I-Skill I-Skill O O O O
+I have been involved in machine learning applications in fraud detection for over three years.,O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have four years of experience applying machine learning to speech-to-text systems.,O O B-Years I-Years O O O B-Skill I-Skill O O O
+I have been working on predictive analytics and machine learning models for the finance sector for five years.,O O O O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have been developing reinforcement learning models for robotics applications for three years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O B-Years I-Years
+"I have worked on NLP systems, particularly in developing chatbots, for two years.",O O O O B-Skill O O O O O O B-Years I-Years
+I have four years of experience working with neural networks for computer vision projects.,O O B-Years I-Years O O O O B-Skill I-Skill O B-Skill I-Skill O
+I have been working on machine learning solutions for text sentiment analysis for nearly three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have about two years of experience in time series forecasting using machine learning in the energy sector.,O O O B-Years I-Years O O O O O O O B-Skill I-Skill O O O O
+I have spent the last four years working on reinforcement learning algorithms for autonomous systems.,O O O O O B-Years I-Years O O B-Skill I-Skill I-Skill O O O
+"I have around three years of experience in AI research, focusing on deep learning models for healthcare.",O O O B-Years I-Years O O O B-Skill I-Skill O O B-Skill I-Skill I-Skill O O
+I have been building machine learning models for fraud detection in the banking sector for two years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have been developing machine learning algorithms for real-time data processing for four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O B-Years I-Years
+I have two and a half years of experience in working with AI-driven solutions for speech recognition systems.,O O B-Years I-Years I-Years I-Years I-Years O O O O O B-Skill I-Skill O O O O
+I have worked on machine learning models for predictive maintenance in manufacturing for about three years.,O O O O B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+"I have spent five years working on various machine learning projects, primarily focusing on deep learning techniques.",O O O B-Years I-Years O O O B-Skill I-Skill O O O O B-Skill I-Skill I-Skill
+I have been developing machine learning models for natural language processing applications for about three years now.,O O O O B-Skill I-Skill I-Skill I-Skill O B-Skill I-Skill I-Skill I-Skill O O B-Years I-Years O
+"For the last four years, I have worked extensively on computer vision tasks, specifically image recognition.",O O O B-Years I-Years O O O O O O B-Skill I-Skill O O B-Skill I-Skill
+I have two years of experience in implementing machine learning algorithms for predictive modeling in retail.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O O
+I have been involved in building deep learning architectures for facial recognition for over three years.,O O O O O O B-Skill I-Skill I-Skill I-Skill O B-Skill I-Skill O B-Years I-Years
+I spent the last two years specializing in machine learning for financial forecasting and risk assessment.,O O O O B-Years I-Years O O B-Skill I-Skill O O O O O O
+I have been working on developing AI models for healthcare diagnostics for about four years now.,O O O O O B-Skill I-Skill I-Skill O O O O O B-Years I-Years O
+My experience includes three years of developing chatbot solutions using NLP and machine learning.,O O O B-Years I-Years O O O O O B-Skill I-Skill I-Skill I-Skill
+I have been involved in machine learning projects focused on social media analytics for the last two years.,O O O O O B-Skill I-Skill O O O O O O O O O B-Years I-Years
+"For nearly five years, I have worked on reinforcement learning projects for optimizing automated systems.",O O B-Years I-Years O O O B-Skill I-Skill O O O O O O
+I have worked for three years on machine learning models aimed at predicting customer churn in telecom.,O O O O B-Years I-Years O B-Skill I-Skill I-Skill O O O O O O O
+I have spent the past four years developing algorithms for data mining and predictive analytics.,O O O O O B-Years I-Years I-Skill I-Skill O B-Skill I-Skill O O O
+I have approximately two years of experience in deploying machine learning models in cloud environments.,O O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+I have been building models for speech recognition tasks in various applications for about three years.,O O O B-Skill I-Skill B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have worked on various projects related to anomaly detection in network traffic for the last two years.,O O O O O O O O O O O O O O O O B-Years I-Years
+I have four years of experience applying machine learning to improve user personalization in applications.,O O B-Years I-Years O O O B-Skill I-Skill O O O O O O
+I have been working on machine learning solutions for real-time fraud detection in online transactions for three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+"I have a strong background in computer vision, having spent five years developing models for object detection.",O O O O O O B-Skill I-Skill O O B-Years I-Years O B-Skill I-Skill I-Skill I-Skill
+My experience includes working with machine learning in mobile applications for user experience enhancement for two years.,O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have been developing models for text generation and summarization in the content creation domain for the last three years.,O O O B-Skill I-Skill O B-Skill I-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have worked on integrating machine learning algorithms for performance optimization in supply chain management for four years.,O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have about two years of experience in using machine learning techniques for optimizing energy consumption.,O O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O
+I spent three years developing systems using NLP for automated customer service solutions.,O O B-Years I-Years O O O O B-Skill O O O O O
+I have worked on projects that involve predictive analytics for sales forecasting in the retail sector for over three years.,O O O O O O O O O O O O O O O O O O B-Years I-Years
+I have been working with machine learning techniques for designing smart home automation systems for about four years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have a solid background in working with convolutional neural networks for image segmentation for two years.,O O O O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O B-Years I-Years
+I have spent the last three years building models for machine translation and language understanding.,O O O O O B-Years I-Years O O O O O O O O
+I have four years of experience in developing machine learning models for climate forecasting.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O
+I have been involved in using machine learning for emotion recognition from text data for two years.,O O O O O O B-Skill I-Skill O O O O O O O B-Years I-Years
+I have worked on several projects related to robotic process automation using machine learning for three years.,O O O O O O O O O O O O B-Skill I-Skill O B-Years I-Years
+I have about two and a half years of experience building recommendation systems for online streaming platforms.,O O O B-Years I-Years I-Years I-Years I-Years O O O O O O O O O
+I have been involved in projects focusing on improving AI-driven chat systems for customer interaction for three years.,O O O O O O O O O O O O O O O O B-Years I-Years
+I have spent five years working on machine learning for optimizing advertising strategies in digital marketing.,O O O B-Years I-Years O O B-Skill I-Skill O O O O O O O
+I have developed deep learning models for video analysis and classification tasks for about three years.,O O B-Skill I-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have been using machine learning to analyze and predict stock market trends for the past two years.,O O O O B-Skill I-Skill O O O O O O O O O O B-Years I-Years
+"I have three years of experience in developing AI solutions for agriculture, focusing on yield prediction.",O O B-Years I-Years O O O B-Skill I-Skill I-Skill O O O O O O
+I have been involved in creating models for real-time data analytics in the transportation sector for four years.,O O O O O O O O O O O O O O O O B-Years I-Years
+I have spent the last two years applying machine learning to create interactive educational tools.,O O O O O B-Years I-Years O B-Skill I-Skill O O O O O
+I have experience working on machine learning projects for risk management in insurance for over three years.,O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have developed algorithms for enhancing the security of systems through machine learning for about four years.,O O O O O O O O O O O B-Skill I-Skill O O B-Years I-Years
+I have been working on machine learning for automated data extraction from documents for two years.,O O O O O B-Skill I-Skill O O O O O O O B-Years I-Years
+I have about three years of experience using reinforcement learning for game development and AI training.,O O O B-Years I-Years O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have a strong focus on machine learning for environmental monitoring and analysis for the last two years.,O O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have spent the past three years building AI models for customer sentiment analysis in product reviews.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill O O O O O O O
+I have been developing computer vision solutions for smart surveillance systems for over four years.,O O O B-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have worked on various machine learning projects aimed at enhancing cybersecurity measures for three years.,O O O O O B-Skill I-Skill O O O O B-Skill O O B-Years I-Years
+I have over three years of experience working with support vector machines and decision trees in various projects.,O O O B-Years I-Years O O O O O O O O O O O O O
+"I have spent the last two years focusing on deep learning for image processing tasks, particularly in medical imaging.",O O O O O B-Years I-Years O O B-Skill I-Skill O O O O O O O O
+I have four years of experience in developing machine learning applications for speech and language processing.,O O B-Years I-Years O O O B-Skill I-Skill I-Skill I-Skill O O O O O
+I have been involved in projects using machine learning to optimize supply chain logistics for about five years.,O O O O O O O B-Skill I-Skill O O O O O O O B-Years I-Years
+I have spent nearly two years developing algorithms for sentiment analysis in social media data.,O O O O B-Years I-Years B-Skill I-Skill O O O O O O O
+I have three years of experience creating predictive models using ensemble methods in finance.,O O B-Years I-Years O O O O O O O O O O
+"I have worked for over four years in machine learning research, primarily focusing on generative adversarial networks.",O O O O O B-Years I-Years O B-Skill I-Skill I-Skill O O O O O O
+I have two years of hands-on experience implementing machine learning models for anomaly detection in cybersecurity.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O B-Skill
+I have spent three years building recommendation engines for e-commerce platforms using collaborative filtering techniques.,O O O B-Years I-Years O O O O O O O O O O
+I have been involved in the development of machine learning models for predictive maintenance in manufacturing for about four years.,O O O O O O B-Skill I-Skill B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have four years of experience working with reinforcement learning in gaming and simulation environments.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill
+I have worked on several projects that focus on using machine learning for medical diagnosis and patient risk assessment for three years.,O O O O O O O O B-Skill I-Skill O O O O O O O O O O B-Years I-Years
+I have been applying machine learning techniques for analyzing customer behavior in retail for about five years.,O O O O B-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have two years of experience in deploying machine learning models in mobile applications for personalized user experiences.,O O B-Years I-Years O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill O O O O
+I have three years of experience working on natural language processing for chatbots and virtual assistants.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O O
+I have been involved in projects focused on machine learning for traffic prediction and smart city applications for two years.,O O O O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have a strong background in feature engineering and model tuning for machine learning applications over the last three years.,O O O O O O O O O O O O B-Skill I-Skill I-Skill O O O B-Years I-Years
+I have spent the past four years developing deep learning models for automatic speech recognition.,O O O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill O O B-Skill I-Skill
+I have been working with large datasets in machine learning projects aimed at fraud detection in banking for about two years.,O O O O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have experience working on machine learning projects that focus on analyzing satellite imagery for environmental monitoring for three years.,O O O O O B-Skill I-Skill O O O O O O O O O O B-Years I-Years
+I have worked on developing machine learning models for personalized marketing campaigns in digital advertising for four years.,O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O O B-Years I-Years
+I have been building machine learning models for optimizing website conversion rates for two years.,O O O O B-Skill I-Skill I-Skill O O O O O O B-Years I-Years
+I have about three years of experience in using computer vision techniques for object tracking in video analysis.,O O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O O O
+I have worked extensively on applying machine learning to optimize energy usage in smart buildings for two years.,O O O O O O B-Skill I-Skill O O O O O O O O B-Years I-Years
+I have spent the last three years developing applications that use machine learning for real-time video processing.,O O O O O B-Years I-Years O O O O B-Skill I-Skill O O O O
+I have experience working with machine learning frameworks like TensorFlow and PyTorch for over four years.,O O O O O B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O B-Years I-Years
+I have been involved in using machine learning for designing smart healthcare solutions for patient monitoring for two years.,O O O O O O B-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have spent four years developing data pipelines and deploying machine learning models in production environments.,O O O B-Years I-Years B-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill I-Skill O O O
+I have been working on machine learning projects that involve predictive modeling for employee performance assessments for three years.,O O O O O B-Skill I-Skill O O O O O O O O O O B-Years I-Years
+I have two years of experience in using machine learning for automated document classification in legal tech.,O O B-Years I-Years O O O O B-Skill I-Skill O O O O O O O
+I have worked for three years developing algorithms for personalized learning paths in educational technologies.,O O O O B-Years I-Years B-Skill I-Skill O O O O O O O O O
+I have about four years of experience in applying machine learning for risk modeling in financial services.,O O O B-Years I-Years O O O O B-Skill I-Skill O O O O O O
+I have been involved in machine learning projects focused on optimizing routes for delivery services for two years.,O O O O O B-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have experience working on machine learning solutions for credit scoring and lending automation for three years.,O O O O O B-Skill I-Skill I-Skill O O O O O O O B-Years I-Years
+I have spent the past four years building models for facial expression recognition using deep learning techniques.,O O O O O B-Years I-Years O O O O O O O B-Skill I-Skill I-Skill
+I have two years of experience in creating machine learning models for chatbot interactions in customer service.,O O B-Years I-Years O O O O B-Skill I-Skill I-Skill O O O O O O
+I have worked for three years on projects using machine learning for automatic language translation.,O O O O B-Years I-Years O O O B-Skill I-Skill O O O O
+I have a background in developing machine learning algorithms for real-time sentiment tracking in public opinion analysis for two years.,O O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have spent five years working on machine learning applications for enhancing video game graphics using neural networks.,O O O B-Years I-Years O O B-Skill I-kill I-Skill O O O O O O O O O B-Skill I-Skill
+I have two years of experience in machine learning for analyzing and predicting housing market trends.,O O B-Years I-Years O O O B-Skill I-Skill O O O O O O O
+I have been involved in using machine learning for customer segmentation and targeting strategies in marketing for three years.,O O O O O O B-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have spent the last four years working on AI solutions that leverage machine learning for disaster response.,O O O O O B-Years I-Years O O B-Skill I-Skill O O B-Skill I-Skill O O O
+I have experience in building systems that utilize machine learning for identity verification and fraud prevention in banking for two years.,O O O O O O O O B-Skill I-Skill O O O O O O O O O B-Years I-Years
+I have worked on developing machine learning applications for automating customer feedback analysis for three years.,O O O O B-Skill I-Skill I-Skill I-Skill O O O O O O B-Years I-Years

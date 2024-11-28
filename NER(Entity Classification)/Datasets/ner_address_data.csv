@@ -1,0 +1,410 @@
+Sentence,Labels
+I live in Lahore,O O O B-Address
+My city is Islamabad,O O O B-Address
+I come from Karachi,O O O B-Address
+I reside in Faisalabad,O O O B-Address
+I'm from Rawalpindi,O O B-Address
+I am currently in Multan,O O O O B-Address
+My home is Peshawar,O O O B-Address
+I live in Quetta,O O O B-Address
+I stay in Sialkot,O O O B-Address
+I reside in Gujranwala,O O O B-Address
+My current is Bahawalpur,O O O B-Address
+I am based in Sukkur,O O O O B-Address
+My location is Sargodha,O O O B-Address
+I am from Abbottabad,O O O B-Address
+I live in Hyderabad,O O O B-Address
+My address is in Mardan,O O O O B-Address
+I am staying in Rahim Yar Khan,O O O O B-Address I-Address I-Address
+I come from Kasur,O O O B-Address
+I live in Okara,O O O B-Address
+I am currently based in Jhelum.,O O O O O B-Address
+My city is Gujrat.,O O O B-Address
+I stay in Dera Ghazi Khan.,O O O B-Address I-Address I-Address
+I reside in Sahiwal.,O O O B-Address
+My address is in Chakwal.,O O O O B-Address
+I live in Mianwali.,O O O B-Address
+I am from Mirpur.,O O O B-Address
+I reside in Chitral.,O O O B-Address
+My current location is Sheikhupura.,O O O O B-Address
+I come from Toba Tek Singh.,O O O B-Address I-Address I-Address
+I am staying in Swat.,O O O O B-Address
+I live in Dera Ismail Khan.,O O O B-Address I-Address I-Address
+I reside in Khushab.,O O O B-Address
+My home is in Muzaffargarh.,O O O O B-Address
+I come from Narowal.,O O O B-Address
+I live in Kohat.,O O O B-Address
+I am based in Wah Cantt.,O O O O B-Address I-Address
+I reside in Attock.,O O O B-Address
+I live in Nowshera.,O O O B-Address
+My home is in Bahawalnagar.,O O O O B-Address
+I come from Swabi.,O O O B-Address
+I am staying in Mansehra.,O O O O B-Address
+I live in Jhang.,O O O B-Address
+I reside in Khuzdar.,O O O B-Address
+I am currently based in Chiniot.,O O O O O B-Address
+My city is Larkana.,O O O B-Address
+I stay in Kharian.,O O O B-Address
+I am from Skardu.,O O O B-Address
+I live in Dubai.,O O O B-Address
+My city is London.,O O O B-Address
+I reside in New York.,O O O B-Address I-Address
+I am currently living in Islamabad.,O O O O O B-Address
+I belong to Karachi.,O O O B-Address
+I am based out of Lahore.,O O O O O B-Address
+My home is in Rawalpindi.,O O O O B-Address
+My city is Multan.,O O O B-Address
+I come from Faisalabad.,O O O B-Address
+I am settled in Quetta.,O O O O B-Address
+I am staying in Peshawar.,O O O O B-Address
+I reside in Sialkot at the moment.,O O O B-Address O O O
+My address is Gujranwala.,O O O B-Address
+I live in Bahawalpur.,O O O B-Address
+I hail from Sukkur.,O O O B-Address
+I currently reside in Sargodha.,O O O O B-Address
+I am located in Abbottabad.,O O O O B-Address
+"I am from Hyderabad, Pakistan.",O O O B-Address O
+My hometown is Mardan.,O O O B-Address
+I am originally from Rahim Yar Khan.,O O O O B-Address I-Address I-Address
+I reside in Kasur.,O O O B-Address
+I am living in Okara.,O O O O B-Address
+My city of residence is Jhelum.,O O O O O B-Address
+I call Gujrat my home.,O O B-Address O O
+I am from Dera Ghazi Khan.,O O O B-Address I-Address I-Address
+I currently live in Sahiwal.,O O O O B-Address
+My address is Chakwal.,O O O B-Address
+I come from Mianwali.,O O O B-Address
+"I live in Mirpur, AJK.",O O O B-Address I-Address
+I am residing in Chitral.,O O O O B-Address
+I belong to Sheikhupura.,O O O B-Address
+My current city of residence is Toba Tek Singh.,O O O O O O B-Address I-Address I-Address
+I hail from Swat.,O O O B-Address
+I am located in Dera Ismail Khan.,O O O O B-Address I-Address I-Address
+I reside in Khushab.,O O O B-Address
+I come from Muzaffargarh.,O O O B-Address
+I belong to Narowal.,O O O B-Address
+I am currently in Kohat.,O O O O B-Address
+I stay in Wah Cantt.,O O O B-Address I-Address
+I am a resident of Attock.,O O O O O B-Address
+I live in Nowshera.,O O O B-Address
+My current residence is Bahawalnagar.,O O O O B-Address
+I come from Swabi.,O O O B-Address
+I am presently living in Mansehra.,O O O O O B-Address
+My city is Jhang.,O O O B-Address
+I am based in Khuzdar.,O O O O B-Address
+I am currently residing in Chiniot.,O O O O O B-Address
+I come from Larkana.,O O O B-Address
+I live in Kharian.,O O O B-Address
+I hail from Skardu.,O O O B-Address
+I currently live in Riyadh.,O O O O B-Address
+I am settled in Toronto.,O O O O B-Address
+I am living in Paris.,O O O O B-Address
+I belong to Berlin.,O O O B-Address
+I am currently staying in Lahore.,O O O O O B-Address
+I am from Karachi.,O O O B-Address
+My city is Islamabad.,O O O B-Address
+I live in Rawalpindi these days.,O O O B-Address O O
+I am from Multan city.,O O O B-Address O
+I reside in Faisalabad.,O O O B-Address
+I am settled in Peshawar.,O O O O B-Address
+I am living in Quetta.,O O O O B-Address
+I currently stay in Sialkot.,O O O O B-Address
+I am based in Gujranwala.,O O O O B-Address
+My address is Bahawalpur.,O O O B-Address
+I reside in Sukkur.,O O O B-Address
+I am a resident of Sargodha.,O O O O O B-Address
+I currently live in Abbottabad.,O O O O B-Address
+I am from Hyderabad.,O O O B-Address
+I belong to Mardan.,O O O B-Address
+I am living in Rahim Yar Khan.,O O O O B-Address I-Address I-Address
+I come from Kasur.,O O O B-Address
+My residence is Okara.,O O O B-Address
+I reside in Jhelum.,O O O B-Address
+I am based in Gujrat.,O O O O B-Address
+I am currently living in Dera Ghazi Khan.,O O O O O B-Address I-Address I-Address
+I stay in Sahiwal.,O O O B-Address
+I am from Chakwal.,O O O B-Address
+I reside in Mianwali.,O O O B-Address
+I hail from Mirpur.,O O O B-Address
+I live in Chitral.,O O O B-Address
+I currently reside in Sheikhupura.,O O O O B-Address
+I belong to Toba Tek Singh.,O O O B-Address I-Address I-Address
+I am from Swat valley.,O O O B-Address I-Address
+I live in Dera Ismail Khan.,O O O B-Address I-Address I-Address
+I am staying in Khushab.,O O O O B-Address
+I am from Muzaffargarh.,O O O B-Address
+I currently live in Narowal.,O O O O B-Address
+I come from Kohat.,O O O B-Address
+I reside in Wah Cantt.,O O O B-Address I-Address
+I am living in Attock.,O O O O B-Address
+I am from Nowshera.,O O O B-Address
+I belong to Bahawalnagar.,O O O B-Address
+I reside in Swabi.,O O O B-Address
+I am currently in Mansehra.,O O O O B-Address
+I am from Jhang city.,O O O B-Address O
+I live in Khuzdar.,O O O B-Address
+I stay in Chiniot.,O O O B-Address
+I reside in Larkana.,O O O B-Address
+I am from Kharian.,O O O B-Address
+I come from Skardu.,O O O B-Address
+I live in Melbourne.,O O O B-Address
+I reside in Sydney.,O O O B-Address
+I currently live in Beijing.,O O O O B-Address
+I am from Tokyo.,O O O B-Address
+I am residing in San Francisco.,O O O O B-Address I-Address
+I am currently residing in Lahore.,O O O O O B-Address
+Karachi is where I live.,B-Address O O O O
+I call Islamabad home.,O O B-Address O
+I am originally from Rawalpindi.,O O O O B-Address
+I am based in Multan city.,O O O O B-Address O
+I belong to Faisalabad.,O O O B-Address
+I stay in Peshawar.,O O O B-Address
+Quetta is my city.,B-Address O O O
+Sialkot is where I currently live.,B-Address O O O O O
+Gujranwala is my place of residence.,B-Address O O O O O
+I am a resident of Bahawalpur.,O O O O O B-Address
+Sukkur is my hometown.,B-Address O O O
+I currently reside in Sargodha.,O O O O B-Address
+Abbottabad is where I live.,B-Address O O O O
+Hyderabad is my home city.,B-Address O O O O
+I stay in Mardan.,O O O B-Address
+Rahim Yar Khan is my location.,B-Address I-Address I-Address O O O
+Kasur is where I live.,B-Address O O O O
+I reside in Okara.,O O O B-Address
+I live in Jhelum.,O O O B-Address
+I am based in Gujrat.,O O O O B-Address
+Dera Ghazi Khan is my home.,B-Address I-Address I-Address O O O
+Sahiwal is my residence.,B-Address O O O
+Chakwal is my city.,B-Address O O O
+Mianwali is where I am from.,B-Address O O O O O
+Mirpur is my home.,B-Address O O O
+I live in Chitral.,O O O B-Address
+Sheikhupura is my current residence.,B-Address O O O O
+Toba Tek Singh is where I am from.,B-Address I-Address I-Address O O O O O
+I live in Swat.,O O O B-Address
+I am based in Dera Ismail Khan.,O O O O B-Address I-Address I-Address
+Khushab is where I stay.,B-Address O O O O
+I am from Muzaffargarh.,O O O B-Address
+Narowal is my place of residence.,B-Address O O O O O
+I reside in Kohat.,O O O B-Address
+I live in Wah Cantt.,O O O B-Address I-Address
+I am originally from Attock.,O O O O B-Address
+Nowshera is where I stay.,B-Address O O O O
+Bahawalnagar is my home.,B-Address O O O
+Swabi is my city.,B-Address O O O
+Mansehra is where I live.,B-Address O O O O
+Jhang is my hometown.,B-Address O O O
+I currently stay in Khuzdar.,O O O O B-Address
+I live in Chiniot.,O O O B-Address
+Larkana is my home.,B-Address O O O
+I belong to Kharian.,O O O B-Address
+I come from Skardu.,O O O O B-Address
+I live in Dubai.,O O O B-Address
+I currently reside in Sydney.,O O O O B-Address
+I stay in Toronto.,O O O B-Address
+I live in Kuala Lumpur.,O O O B-Address I-Address
+I am currently residing in London.,O O O O O B-Address
+I live in Lahore right now.,O O O B-Address O O
+I am located in Karachi.,O O O O B-Address
+My current residence is Islamabad.,O O O O B-Address
+I am from Rawalpindi city.,O O O B-Address O
+I am staying in Multan.,O O O O B-Address
+Faisalabad is where I reside.,B-Address O O O O
+I belong to Peshawar.,O O O B-Address
+I live in Quetta currently.,O O O B-Address O
+Sialkot is my city of residence.,B-Address O O O O O
+I live in Gujranwala.,O O O B-Address
+I am based in Bahawalpur.,O O O O B-Address
+My address is in Sukkur.,O O O O B-Address
+I am located in Sargodha.,O O O O B-Address
+I reside in Abbottabad.,O O O B-Address
+Hyderabad is where I live.,B-Address O O O O
+I stay in Mardan city.,O O O B-Address O
+I live in Rahim Yar Khan.,O O O B-Address I-Address I-Address
+I reside in Kasur.,O O O B-Address
+My current location is Okara.,O O O O B-Address
+I am from Jhelum.,O O O B-Address
+Gujrat is where I am based.,B-Address O O O O O
+I reside in Dera Ghazi Khan.,O O O B-Address I-Address I-Address
+Sahiwal is where I stay.,B-Address O O O O
+My residence is Chakwal.,O O O B-Address
+Mianwali is where I am living.,B-Address O O O O O
+Mirpur is my place of residence.,B-Address O O O O O
+I stay in Chitral.,O O O B-Address
+I am currently living in Sheikhupura.,O O O O O B-Address
+I belong to Toba Tek Singh.,O O O B-Address I-Address I-Address
+Swat is where I live.,B-Address O O O O
+I live in Dera Ismail Khan.,O O O B-Address I-Address I-Address
+Khushab is my home.,B-Address O O O
+I reside in Muzaffargarh.,O O O B-Address
+I am based in Narowal.,O O O O B-Address
+I live in Kohat.,O O O B-Address
+My current home is Wah Cantt.,O O O O B-Address I-Address
+I am residing in Attock.,O O O O B-Address
+I stay in Nowshera.,O O O B-Address
+Bahawalnagar is my current address.,B-Address O O O O
+I live in Swabi.,O O O B-Address
+Mansehra is my home city.,B-Address O O O O
+I am based in Jhang.,O O O O B-Address
+I live in Khuzdar.,O O O B-Address
+I currently reside in Chiniot.,O O O O B-Address
+Larkana is my residence.,B-Address O O O
+I reside in Kharian.,O O O B-Address
+Skardu is where I am living.,B-Address O O O O O
+I currently live in Abu Dhabi.,O O O O B-Address I-Address
+I am living in New York.,O O O O B-Address I-Address
+I stay in Los Angeles.,O O O B-Address I-Address
+I reside in Tokyo.,O O O B-Address
+I am from Singapore.,O O O B-Address
+I currently live in Lahore.,O O O O B-Address
+Karachi is where I am from.,B-Address O O O O O
+I reside in Islamabad at the moment.,O O O B-Address O O O
+Rawalpindi is my home city.,B-Address O O O O
+I am from Multan city.,O O O B-Address O
+Faisalabad is where I stay.,B-Address O O O O
+I am based in Peshawar.,O O O O B-Address
+Quetta is my current city.,B-Address O O O O
+Sialkot is my place of residence.,B-Address O O O O O
+Gujranwala is where I live now.,B-Address O O O O O
+Bahawalpur is my hometown.,B-Address O O O
+I live in Sukkur currently.,O O O B-Address O
+Sargodha is where I reside.,B-Address O O O O
+I am living in Abbottabad.,O O O O B-Address
+Hyderabad is my city of residence.,B-Address O O O O O
+I hail from Mardan.,O O O B-Address
+Rahim Yar Khan is where I am from.,B-Address I-Address I-Address O O O O O
+I stay in Kasur.,O O O B-Address
+Okara is my current address.,B-Address O O O O
+I am from Jhelum.,O O O B-Address
+Gujrat is where I am located.,B-Address O O O O O
+Dera Ghazi Khan is my city.,B-Address I-Address I-Address O O O
+Sahiwal is my home.,B-Address O O O
+I live in Chakwal.,O O O B-Address
+Mianwali is my residence.,B-Address O O O
+I am originally from Mirpur.,O O O O B-Address
+I currently reside in Chitral.,O O O O B-Address
+Sheikhupura is where I stay.,B-Address O O O O
+Toba Tek Singh is my hometown.,B-Address I-Address I-Address O O O
+I am from Swat valley.,O O O B-Address I-Address
+Dera Ismail Khan is where I live.,B-Address I-Address I-Address O O O O
+I am living in Khushab.,O O O O B-Address
+I currently reside in Muzaffargarh.,O O O O B-Address
+I am based in Narowal.,O O O O B-Address
+I live in Kohat now.,O O O B-Address O
+Wah Cantt is my current location.,B-Address I-Address O O O O
+I am from Attock.,O O O B-Address
+Nowshera is my hometown.,B-Address O O O
+Bahawalnagar is where I stay.,B-Address O O O O
+I reside in Swabi.,O O O B-Address
+I live in Mansehra city.,O O O B-Address O
+Jhang is my current residence.,B-Address O O O O
+Khuzdar is my place of origin.,B-Address O O O O
+Chiniot is where I am from.,B-Address O O O O O
+I am from Larkana.,O O O B-Address
+Kharian is where I live.,B-Address O O O O
+I am currently in Skardu.,O O O O B-Address
+I reside in Dubai.,O O O B-Address
+I am living in San Francisco.,O O O O B-Address I-Address
+I stay in London.,O O O B-Address
+I am from Sydney.,O O O B-Address
+My current home is in Tokyo.,O O O O O B-Address
+I am currently residing in Lahore.,O O O O O B-Address
+My hometown is Karachi.,O O O B-Address
+I live in Islamabad right now.,O O O B-Address O O
+I hail from Rawalpindi.,O O O B-Address
+Multan is where I am based.,B-Address O O O O O
+Faisalabad is my place of residence.,B-Address O O O O O
+I currently stay in Peshawar.,O O O O B-Address
+I am from Quetta.,O O O B-Address
+Sialkot is where I live at the moment.,B-Address O O O O O O O
+Gujranwala is my city.,B-Address O O O
+I am a resident of Bahawalpur.,O O O O O B-Address
+Sukkur is where I currently reside.,B-Address O O O O O
+I am located in Sargodha.,O O O O B-Address
+Abbottabad is where I live.,B-Address O O O O
+Hyderabad is my hometown.,B-Address O O O
+I am from Mardan city.,O O O B-Address O
+I stay in Rahim Yar Khan.,O O O B-Address I-Address I-Address
+Kasur is my residence.,B-Address O O O
+My address is in Okara.,O O O O B-Address
+I am from Jhelum.,O O O B-Address
+Gujrat is where I am currently living.,B-Address O O O O O O
+I reside in Dera Ghazi Khan.,O O O B-Address I-Address I-Address
+I live in Sahiwal.,O O O B-Address
+Chakwal is where I am from.,B-Address O O O O O
+I am from Mianwali.,O O O B-Address
+I currently live in Mirpur.,O O O O B-Address
+I am staying in Chitral.,O O O O B-Address
+Sheikhupura is my current location.,B-Address O O O O
+I belong to Toba Tek Singh.,O O O B-Address I-Address I-Address
+Swat valley is where I am based.,B-Address I-Address O O O O O
+I live in Dera Ismail Khan.,O O O B-Address I-Address I-Address
+Khushab is my city of residence.,B-Address O O O O O
+I am originally from Muzaffargarh.,O O O O B-Address
+Narowal is where I reside.,B-Address O O O O
+I am currently in Kohat.,O O O O B-Address
+Wah Cantt is my home.,B-Address I-Address O O O
+Attock is where I stay.,B-Address O O O O
+I am from Nowshera.,O O O B-Address
+Bahawalnagar is my hometown.,B-Address O O O
+I live in Swabi.,O O O B-Address
+I currently reside in Mansehra.,O O O O B-Address
+Jhang is my current address.,B-Address O O O O
+Khuzdar is where I am from.,B-Address O O O O O
+Chiniot is my city.,B-Address O O O
+I am living in Larkana.,O O O O B-Address
+Kharian is my place of origin.,B-Address O O O O O
+I am in Skardu at the moment.,O O O B-Address O O O
+I stay in Abu Dhabi.,O O O B-Address I-Address
+I reside in New York.,O O O B-Address I-Address
+I am currently in Los Angeles.,O O O O B-Address I-Address
+I live in Paris.,O O O B-Address
+I am from Toronto.,O O O B-Address
+I currently reside in Lahore city.,O O O O B-Address O
+Karachi is where I come from.,B-Address O O O O O
+I live in Islamabad at this time.,O O O B-Address O O O
+My home is in Rawalpindi.,O O O O B-Address
+I am based in Multan city.,O O O O B-Address O
+Faisalabad is where I currently live.,B-Address O O O O O
+I stay in Peshawar these days.,O O O B-Address O O
+Quetta is my hometown.,B-Address O O O
+Sialkot is where I live right now.,B-Address O O O O O O
+I am located in Gujranwala.,O O O O B-Address
+Bahawalpur is where I call home.,B-Address O O O O O
+I live in Sukkur at the moment.,O O O B-Address O O O
+Sargodha is where I am currently residing.,B-Address O O O O O O
+I am in Abbottabad.,O O O B-Address
+Hyderabad is my current residence.,B-Address O O O O
+Mardan is where I am from.,B-Address O O O O O
+I live in Rahim Yar Khan currently.,O O O B-Address I-Address I-Address O
+My city of residence is Kasur.,O O O O O B-Address
+My address is in Okara.,O O O O B-Address
+I am from Jhelum city.,O O O B-Address O
+I reside in Gujrat these days.,O O O B-Address O O
+Dera Ghazi Khan is my city.,B-Address I-Address I-Address O O O
+Sahiwal is where I currently stay.,B-Address O O O O O
+I am originally from Chakwal.,O O O O B-Address
+I am living in Mianwali right now.,O O O O B-Address O O
+I currently stay in Mirpur.,O O O O B-Address
+Chitral is where I am based now.,B-Address O O O O O O
+Sheikhupura is my hometown.,B-Address O O O
+I belong to Toba Tek Singh district.,O O O B-Address I-Address I-Address O
+Swat is where I currently live.,B-Address O O O O O
+Dera Ismail Khan is my residence.,B-Address I-Address I-Address O O O
+I live in Khushab now.,O O O B-Address O
+Muzaffargarh is where I am located.,B-Address O O O O O
+Narowal is my current city.,B-Address O O O O
+I am in Kohat at this moment.,O O O B-Address O O O
+Wah Cantt is where I reside.,B-Address I-Address O O O O
+I stay in Attock these days.,O O O B-Address O O
+Nowshera is my hometown.,B-Address O O O
+Bahawalnagar is my city of residence.,B-Address O O O O O
+I live in Swabi currently.,O O O B-Address O
+I am currently in Mansehra.,O O O O B-Address
+Jhang is where I call home.,B-Address O O O O O
+I am from Khuzdar district.,O O O B-Address O
+Chiniot is where I live.,B-Address O O O O
+Larkana is my current address.,B-Address O O O O
+I stay in Kharian.,O O O B-Address
+I am living in Skardu right now.,O O O O B-Address O O
+"I reside in Islamabad, Pakistan.",O O O B-Address I-Address
