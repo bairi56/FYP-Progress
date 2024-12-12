@@ -49,13 +49,22 @@ AI-Powered Interviewing System FYP Progress:
    - Automated question generation Using LLama 3.2  
 
 3. **Authentication System**  
-   - Developed login and signup functionality for the web application.  
+   - Developed login and signup functionality for the web application.
+     
+4. **Web development Progress**
+   - Authentication
+   - Recruiter Dashboard
+   - Job Posting Module for Recruiter
+   - View All Posted Jobs
+   - Apply Job Post module
+   - Web Based Inteview using voice and text based interactions
 
 ## Ongoing Work
 
-1. **Frontend Development**  
-   - Building dashboards for recruiters.  
-   - Implementing job posting features.  
+1. **Development Work**  
+   - Building separate dashboards for Recruiters and Candidates.  
+   - Improving the UI.
+   - Generating Question Based upon required skills for each job.
 
 2. **Candidate Response Evaluation**  
    - Exploring methods to assess candidate answers effectively.  
