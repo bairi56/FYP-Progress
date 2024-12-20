@@ -1,0 +1,173 @@
+/* LandingPage.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: block;
+  width: 100%;
+}
+
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.logo-title {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-right: 10px;
+}
+
+.navbar {
+  display: flex;
+  gap: 10px;
+}
+
+.nav-button {
+  border: none;
+  background: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.recruiter {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 50px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.left-content,
+.right-content {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-content {
+  flex: 2;
+  padding: 20px;
+  display: flex;
+  flex-direction: column; /* Ensure items are stacked vertically */
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.right-content {
+  flex: 1;
+}
+
+.heading {
+  font-size: 55px;
+  margin-bottom: 20px;
+  color: black;
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.subtext {
+  margin-bottom: 60px; /* Add margin to create space between the paragraph and buttons */
+
+  color: black;
+  font-size: 18px;
+  text-align: left;
+}
+.buttons {
+  margin-bottom: 50px;
+  display: flex;
+  gap: 10px;
+}
+
+.find-more {
+  margin-top: 50px;
+  background-color: #ffcc80;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.play-demo {
+  margin-top: 50px;
+  background: none;
+  color: black;
+  border: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.image-container {
+  display: flex;
+  gap: 20px;
+}
+
+.image {
+  width: 300px;
+  height: auto;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+}
+
+.services {
+  text-align: center;
+  padding: 50px;
+  margin-bottom: 50px;
+}
+
+.category {
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+}
+
+.services-heading {
+  font-size: 20px;
+  margin: 10px 0 30px 0;
+  color: black;
+}
+
+.service-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  color: black;
+}
+
+.service-item {
+  text-align: center;
+  max-width: 250px;
+  margin: 10px;
+}
+
+.service-icon {
+  font-size: 40px;
+  color: #b4a718; /* Adjust color to match your theme */
+  margin-bottom: 10px;
+}
+.service-item {
+  text-align: center;
+  margin: 20px;
+}
